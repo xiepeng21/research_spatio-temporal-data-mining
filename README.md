@@ -6,7 +6,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 **Spatio-temporal data mining: A survey of problems and methods**. Atluri, Gowtham, Anuj Karpatne, and Vipin Kumar. ACM Computing Surveys (CSUR) 51, no. 4 (2018): 1-41. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
 
-### Top-reference research papers
+### Top-conference research papers
 #### IJCAI (2016-2020)
 **Spatio-Temporal Change Detection Using Granger Sequence Pattern**. Nat Pavasant/Masayuki Numao/Ken-ichi Fukui. IJCAI 2020.	[[paper](https://doi.org/10.24963/ijcai.2020/741)]
 
