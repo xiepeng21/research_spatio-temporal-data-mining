@@ -1,4 +1,4 @@
-# research_spatio-temporal-data-mining
+# Research_Spatio-Temporal-Data-Mining
 A collection of research papers on ***spatio-temporal data mining*** . 
 
 ### Survey
