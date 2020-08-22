@@ -1,7 +1,6 @@
 # Research of Spatio-Temporal Data Mining
 A collection of research papers on ***spatio-temporal data mining*** . 
 
-[toc]
 ### Survey
 * * *
 **A Comprehensive Survey on Traffic Prediction**. Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin. 
