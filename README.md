@@ -1,11 +1,11 @@
 # Research of Spatio-Temporal Data Mining
-A collection of research papers on ***spatio-temporal data mining*** . 
+A collection of research papers on ***spatio-temporal data mining*** .
 
 - [Research of Spatio-Temporal Data Mining](#research-of-spatio-temporal-data-mining)
     - [Survey](#survey)
     - [Top-reference research papers](#top-reference-research-papers)
       - [IJCAI (2016-2020)](#ijcai-2016-2020)
-      - [KDD (2016-2019)](#kdd-2016-2019)
+      - [KDD (2016-2020)](#kdd-2016-2020)
       - [ICDM (2016-2019)](#icdm-2016-2019)
       - [CIKM (2017-2019)](#cikm-2017-2019)
       - [WWW (2016-2020)](#www-2016-2020)
@@ -19,19 +19,27 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 ### Survey
 * * *
-**A Comprehensive Survey on Traffic Prediction**. Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin. 
+
+**A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges**. David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Choudhury, AK Qin. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9112608/)]
+
+**A Comprehensive Survey on Traffic Prediction**. Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin.
 CoRR abs/2004.08555 (2020).  [[paper](https://arxiv.org/abs/2004.08555)]
 
 **Urban flow prediction from spatiotemporal data using machine learning: A survey**. Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang. Inf. Fusion 59: 1-12 (2020). [[paper](https://doi.org/10.1016/j.inffus.2020.01.002)]
 
-**How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey**. Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu. 
+**How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey**. Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu.
 CoRR abs/2005.11691 (2020).  [[paper](https://arxiv.org/abs/2005.11691)]
 
 **Urban big data fusion based on deep learning: An overview**. Jia Liu, Tianrui Li, Peng Xie, Shengdong Du, Fei Teng, Xin Yang. Inf. Fusion 53: 123-133 (2020). [[paper](https://doi.org/10.1016/j.inffus.2019.06.016)]
 
 **Deep Learning for Spatio-Temporal Data Mining: A Survey**. Senzhang Wang, Jiannong Cao, and Philip S. Yu. arXiv preprint arXiv:1906.04928. [[paper](https://arxiv.org/pdf/1906.04928.pdf)]
 
+**Big data analytics in intelligent transportation systems: A survey**. Li Zhu, Fei Richard Yu, Yige Wang, Bin Ning, Tao Tang. IEEE Transactions on Intelligent Transportation Systems 20, no. 1(2019): 383-398. [[paper](https://ieeexplore.ieee.org/abstract/document/8344848/)]
+
 **Spatio-temporal data mining: A survey of problems and methods**. Atluri, Gowtham, Anuj Karpatne, and Vipin Kumar. ACM Computing Surveys (CSUR) 51, no. 4 (2018): 1-41. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
+
+**Survey on traffic prediction in smart cities**. Attila M Nagy, Vilmos Simon. 
+Pervasive and Mobile Computing 50: 148-163 (2018). [[paper](https://www.sciencedirect.com/science/article/pii/S1574119217306521)]
 
 ### Top-reference research papers
 
@@ -58,6 +66,8 @@ CoRR abs/2005.11691 (2020).  [[paper](https://arxiv.org/abs/2005.11691)]
 **Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction**.	Chao Huang, Chuxu Zhang, Peng Dai, Liefeng Bo. IJCAI 2020.	[[paper](https://doi.org/10.24963/ijcai.2020/601)]
 
 **A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling**.	Jie Feng, Ziqian Lin, Tong Xia, Funing Sun, Diansheng Guo, Yong Li. IJCAI 2020. [[paper](https://doi.org/10.24963/ijcai.2020/185)]
+
+**Multi-Group Encoder-Decoder Networks to Fuse Heterogeneous Data for Next-Day Air Quality Prediction**. Yawen Zhang, Qin Lv, Duanfeng Gao, Si Shen, Robert P Dick, Michael Hannigan, Qi Liu. IJCAI 2019.  [[paper](http://ziyang.eecs.umich.edu/~dickrp/publications/zhang19aug.pdf)]
 
 **Cross-City Transfer Learning for Deep Spatio-Temporal Prediction**.	Leye Wang, Xu Geng, Xiaojuan Ma, Feng Liu, Qiang Yang. IJCAI 2019. [[paper](https://doi.org/10.24963/ijcai.2019/262)]
 
@@ -103,9 +113,73 @@ CoRR abs/2005.11691 (2020).  [[paper](https://arxiv.org/abs/2005.11691)]
 
 **Urban Water Quality Prediction Based on Multi-Task Multi-View Learning**. Ye Liu, Yu Zheng, Yuxuan Liang, Shuming Liu, David S. Rosenblum. IJCAI 2016. [[paper](http://www.ijcai.org/Abstract/16/366)]
 
-#### KDD (2016-2019)
+#### KDD (2016-2020)
 
 * * *
+**Learning Effective Road Network Representation with Hierarchical Graph Neural Networks**. Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403043)]
+
+**Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction**. Haoxing Lin, Rufan Bai, Weijia Jia, Xinyu Yang, Yongjian You. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403046)]
+
+**Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403118)]
+
+**AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**. Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403122)]
+
+**Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks**. Yingxue Zhang, Yanhua Li, Xun Zhou, Xiangnan Kong, Jun Luo. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403127)]
+
+**Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams**. Pengyang Wang, Kunpeng Liu, Lu Jiang, Xiaolin Li, Yanjie Fu. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403128)]
+
+**Competitive Analysis for Points of Interest**. Shuangli Li, Jingbo Zhou, Tong Xu, Hao Liu, Xinjiang Lu, Hui Xiong. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403179)]
+
+**ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification**. Huimin Ren, Menghai Pan, Yanhua Li, Xun Zhou, Jun Luo. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403183)]
+
+**Heidegger: Interpretable Temporal Causal Discovery**. Mehrdad Mansouri, Ali Arab, Zahra Zohrevand, Martin Ester. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403220)]
+
+**Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data**. Garrett Wilson, Janardhan Rao Doppa, Diane J. Cook. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403228)]
+
+**Geography-Aware Sequential Location Recommendation**. Defu Lian, Yongji Wu, Yong Ge, Xing Xie, Enhong Chen. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403252)]
+
+**Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns**. Qingsong Wen, Zhe Zhang, Yan Li, Liang Sun. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403271)]
+
+**Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine**. Hao Liu, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma, Hui Xiong. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403281)]
+
+**Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterization**. Eason Wang, Henggang Cui, Sai Yalamanchi, Mohana Moorthy, Nemanja Djuric. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403283)]
+
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**. Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, Jieping Ye. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403294)]
+
+**Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors**. Daheng Wang, Meng Jiang, Munira Syed, Oliver Conway, Vishal Juneja, Sriram Subramanian, Nitesh V. Chawla. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403308)]
+
+**City Metro Network Expansion with Reinforcement Learning**. Yu Wei, Minjia Mao, Xi Zhao, Jianhua Zou, Ping An. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403315)]
+
+**Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps**. Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Ying Li. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403318)]
+
+**ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**. Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403320)]
+
+**Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories**. Sijie Ruan, Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403332)]
+
+**Unsupervised Translation via Hierarchical Anchoring: Functional Mapping of Places across Cities**. Takahiro Yabe, Kota Tsubouchi, Toru Shimizu, Yoshihide Sekimoto, Satish V. Ukkusuri. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403335)]
+
+**Delivery Scope: A New Way of Restaurant Retrieval for On-demand Food Delivery Service**. Xuetao Ding, Runfeng Zhang, Zhen Mao, Ke Xing, Fangxiao Du, Xingyu Liu, Guoxing Wei, Feifan Yin, Renqing He, Zhizhao Sun. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403353)]
+
+**Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach**. Lu Duan, Yang Zhan, Haoyuan Hu, Yu Gong, Jiangwen Wei, Xiaodong Zhang, Yinghui Xu. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403356)]
+
+**Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**. Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403358)]
+
+**Attention based Multi-Modal New Product Sales Time-series Forecasting**. Vijay Ekambaram, Kushagra Manglik, Sumanta Mukherjee, Surya Shravan Kumar Sajja, Satyam Dwivedi, Vikas Raykar. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403362)]
+
+**Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction**. Wenjuan Luo, Han Zhang, Xiaodi Yang, Lin Bo, Xiaoqing Yang, Zang Li, Xiaohu Qie, Jieping Ye. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403373)]
+
+**BusTr: Predicting Bus Travel Times from Real-Time Traffic**. Richard Barnes, Senaka Buthpitiya, James Cook, Alex Fabrikant, Andrew Tomkins, Fangzhou Xu. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403376)]
+
+**CompactETA: A Fast Inference System for Travel Time Prediction**. Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403386)]
+
+**USAD: UnSupervised Anomaly Detection on Multivariate Time Series**. Julien Audibert, Pietro Michiardi, Frédéric Guyard, Sébastien Marti, Maria A. Zuluaga. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403392)]
+
+**Learning to Simulate Human Mobility**. Jie Feng, Zeyu Yang, Fengli Xu, Haisu Yu, Mudan Wang, Yong Li. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412862)]
+
+**Understanding the Impact of the COVID-19 Pandemic on Transportation-related Behaviors with Human Mobility Data**. Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412856)]
+
+**Understanding the Urban Pandemic Spreading of COVID-19 with Real World Mobility Data**. Qianyue Hao, Lin Chen, Fengli Xu, Yong Li. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412860)]
+
 **Lightnet: A dual spatiotemporal encoder network model for lightning prediction**. Yangli-ao Geng, Qingyong Li, Tianyang Lin, Lei Jiang, Liangtao Xu, Dong Zheng, Wen Yao, Weitao Lyu, Yijun Zhang. KDD 2019. [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330717)]
 
 **Deepurbanevent: A system for predicting citywide crowd dynamics at big events**. Renhe Jiang, Xuan Song, Dou Huang, Xiaoya Song, Tianqi Xia, Zekun Cai, Zhaonan Wang, Kyoung-Sook Kim, Ryosuke Shibasaki. KDD 2019. [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330654)]
@@ -282,7 +356,7 @@ Mobility-on-Demand Network Coordination**. Suining He, Kang G. Shin. WWW 2019. [
 
 **Modeling the Interaction Coupling of Multi-View Spatiotemporal Contexts for Destination Prediction**. Kunpeng Liu, Pengyang Wang, Jiawei Zhang, Yanjie Fu, Sajal K. Das. SDM 2018. [[paper](https://doi.org/10.1137/1.9781611975321.20)]
 
-**STAPLE: Spatio-Temporal Precursor Learning for Event Forecasting**. Yue Ning, Rongrong Tao, Chandan K. Reddy, 
+**STAPLE: Spatio-Temporal Precursor Learning for Event Forecasting**. Yue Ning, Rongrong Tao, Chandan K. Reddy,
 Huzefa Rangwala, James C. Starz, Naren Ramakrishnan. SDM 2018. [[paper](https://doi.org/10.1137/1.9781611975321.17)]
 
 **Deep Learning: A Generic Approach for Extreme Condition Traffic Forecasting**. Rose Yu, Yaguang Li, Cyrus Shahabi, Ugur Demiryurek, Yan Liu. SDM 2017. [[paper](https://doi.org/10.1137/1.9781611974973.87)]
@@ -394,27 +468,27 @@ Huzefa Rangwala, James C. Starz, Naren Ramakrishnan. SDM 2018. [[paper](https:
 * * *
 **Semi-Supervised Deep Learning Approach for Transportation Mode Identification Using GPS Trajectory Data**.  Sina Dabiri, Chang-Tien Lu, Kevin Heaslip, Chandan K. Reddy. IEEE Trans. Knowl. Data Eng. 32(5): 1010-1023 (2020). [[paper](https://doi.org/10.1109/TKDE.2019.2896985)]
 
-**Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning**. Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi. 
+**Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning**. Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi.
 IEEE Trans. Knowl. Data Eng. 32(3): 468-478 (2020). [[paper](https://doi.org/10.1109/TKDE.2019.2891537)]
 
-**BRIGHT—Drift-Aware Demand Predictions for Taxi Networks**. 
+**BRIGHT—Drift-Aware Demand Predictions for Taxi Networks**.
 Amal Saadallah, Luís Moreira-Matias, Ricardo Sousa, Jihed Khiari, Erik Jenelius, João Gama. IEEE Trans. Knowl. Data Eng. 32(2): 234-245 (2020). [[paper](https://doi.org/10.1109/TKDE.2018.2883616)]
 
-**An Efficient Destination Prediction Approach Based on Future Trajectory Prediction and Transition Matrix Optimization**. 
+**An Efficient Destination Prediction Approach Based on Future Trajectory Prediction and Transition Matrix Optimization**.
 Zhou Yang, Heli Sun, Jianbin Huang, Zhongbin Sun, Hui Xiong, Shaojie Qiao, Ziyu Guan, Xiaolin Jia. IEEE Trans. Knowl. Data Eng. 32(2): 203-217 (2020). [[paper](https://doi.org/10.1109/TKDE.2018.2883938)]
 
-**DAG: A General Model for Privacy-Preserving Data Mining**. 
-Sin G. Teo, Jianneng Cao, Vincent C. S. Lee. 
+**DAG: A General Model for Privacy-Preserving Data Mining**.
+Sin G. Teo, Jianneng Cao, Vincent C. S. Lee.
 IEEE Trans. Knowl. Data Eng. 32(1): 40-53 (2020). [[paper](https://doi.org/10.1109/TKDE.2018.2880743)]
 
-**A New Method for Measuring Topological Structure Similarity between Complex Trajectories**. 
+**A New Method for Measuring Topological Structure Similarity between Complex Trajectories**.
 Huimeng Wang, Yunyan Du, Jiawei Yi, Yong Sun, Fuyuan Liang. IEEE Trans. Knowl. Data Eng. 31(10): 1836-1848 (2019). [[paper](https://doi.org/10.1109/TKDE.2018.2872523)]
 
 **Detecting Pickpocket Suspects from Large-Scale Public Transit Records**. Bowen Du, Chuanren Liu, Wenjun Zhou, Zhenshan Hou, Hui Xiong. IEEE Trans. Knowl. Data Eng. 31(3): 465-478 (2019). [[paper](https://doi.org/10.1109/TKDE.2018.2834909)]
 
 **An Efficient Ride-Sharing Framework for Maximizing Shared Route**. Na Ta, Guoliang Li, Tianyu Zhao, Jianhua Feng, Hanchao Ma, Zhiguo Gong. IEEE Trans. Knowl. Data Eng. 30(2): 219-233 (2018). [[paper](https://doi.org/10.1109/TKDE.2017.2760880)]
 
-**Reverse $k$ Nearest Neighbor Search over Trajectories**. Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Timos Sellis, 
+**Reverse $k$ Nearest Neighbor Search over Trajectories**. Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Timos Sellis,
 Gao Cong. IEEE Trans. Knowl. Data Eng. 30(4): 757-771 (2018). [[paper](https://doi.org/10.1109/TKDE.2017.2776268)]
 
 **To Meet or Not to Meet: Finding the Shortest Paths in Road Networks**. Weihuang Huang, Yikai Zhang, Zechao Shang, Jeffrey Xu Yu. IEEE Trans. Knowl. Data Eng. 30(4): 772-785 (2018). [[paper](https://doi.org/10.1109/TKDE.2017.2777851)]
@@ -425,7 +499,7 @@ Gao Cong. IEEE Trans. Knowl. Data Eng. 30(4): 757-771 (2018). [[paper](https
 
 **A Novel Representation and Compression for Queries on Trajectories in Road Networks**. Xiaochun Yang, Bin Wang, Kai Yang, Chengfei Liu, Baihua Zheng. IEEE Trans. Knowl. Data Eng. 30(4): 613-629 (2018). [[paper](https://doi.org/10.1109/TKDE.2017.2776927)]
 
-**Citywide Traffic Volume Estimation Using Trajectory Data**. 
+**Citywide Traffic Volume Estimation Using Trajectory Data**.
 Xianyuan Zhan, Yu Zheng, Xiuwen Yi, Satish V. Ukkusuri. IEEE Trans. Knowl. Data Eng. 29(2): 272-285 (2017). [[paper](https://doi.org/10.1109/TKDE.2016.2621104)]
 
 **Efficient Clue-Based Route Search on Road Networks**. Bolong Zheng, Han Su, Wen Hua, Kai Zheng, Xiaofang Zhou, Guohui Li. IEEE Trans. Knowl. Data Eng. 29(9): 1846-1859 (2017). [[paper](https://doi.org/10.1109/TKDE.2017.2703848)]
@@ -458,10 +532,10 @@ Xianyuan Zhan, Yu Zheng, Xiuwen Yi, Satish V. Ukkusuri. IEEE Trans. Knowl. D
 
 **Spatio-temporal Adaptive Pricing for Balancing Mobility-on-Demand Networks**. Suining He, Kang G. Shin. ACM Trans. Intell. Syst. Technol. 10(4): 39:1-39:28 (2019). [[paper](https://doi.org/10.1145/3331450)]
 
-**Trajectory Data Classification: A Review**. Jiang Bian, Dayong Tian, Yuanyan Tang, Dacheng Tao. 
+**Trajectory Data Classification: A Review**. Jiang Bian, Dayong Tian, Yuanyan Tang, Dacheng Tao.
 ACM Trans. Intell. Syst. Technol. 10(4): 33:1-33:34 (2019). [[paper](https://doi.org/10.1145/3330138)]
 
-**Real-Time Human Mobility Modeling with Multi-View Learning**. Desheng Zhang, Tian He, Fan Zhang. 
+**Real-Time Human Mobility Modeling with Multi-View Learning**. Desheng Zhang, Tian He, Fan Zhang.
 ACM Trans. Intell. Syst. Technol. 9(3): 22:1-22:25 (2018). [[paper](https://doi.org/10.1145/3092692)]
 
 **A Multiagent-Based Approach for Vehicle Routing by Considering Both Arriving on Time and Total Travel Time**. Zhiguang Cao, Hongliang Guo, Jie Zhang. ACM Trans. Intell. Syst. Technol. 9(3): 25:1-25:21 (2018). [[paper](https://doi.org/10.1145/3078847)]
@@ -480,7 +554,7 @@ ACM Trans. Intell. Syst. Technol. 9(3): 22:1-22:25 (2018). [[paper](https://d
 
 **SmartTransfer: Modeling the Spatiotemporal Dynamics of Passenger Transfers for Crowdedness-Aware Route Recommendations**. Bowen Du, Yifeng Cui, Yanjie Fu, Runxing Zhong, Hui Xiong. ACM Trans. Intell. Syst. Technol. 9(6): 70:1-70:26 (2018). [[paper](https://doi.org/10.1145/3232229)]
 
-**Event Classification in Microblogs via Social Tracking**. Yue Gao, Hanwang Zhang, Xibin Zhao, Shuicheng Yan. 
+**Event Classification in Microblogs via Social Tracking**. Yue Gao, Hanwang Zhang, Xibin Zhao, Shuicheng Yan.
 ACM Trans. Intell. Syst. Technol. 8(3): 35:1-35:14 (2017). [[paper](https://doi.org/10.1145/2967502)]
 
 **Exploiting Social-Mobile Information for Location Visualization**. Jitao Sang, Quan Fang, Changsheng Xu. ACM Trans. Intell. Syst. Technol. 8(3): 39:1-39:19 (2017). [[paper](https://doi.org/10.1145/3001594)]
@@ -497,7 +571,7 @@ ACM Trans. Intell. Syst. Technol. 8(3): 35:1-35:14 (2017). [[paper](https://
 
 **Topic-Aware Physical Activity Propagation with Temporal Dynamics in a Health Social Network**. NhatHai Phan, Javid Ebrahimi, David Kil, Brigitte Piniewski, Dejing Dou. ACM Trans. Intell. Syst. Technol. 8(1): 2:1-2:20 (2016). [[paper](https://doi.org/10.1145/2873066)]
 
-**Using Scalable Data Mining for Predicting Flight Delays**. Loris Belcastro, Fabrizio Marozzo, Domenico Talia, Paolo Trunfio. 
+**Using Scalable Data Mining for Predicting Flight Delays**. Loris Belcastro, Fabrizio Marozzo, Domenico Talia, Paolo Trunfio.
 ACM Trans. Intell. Syst. Technol. 8(1): 5:1-5:20 (2016). [[paper](https://doi.org/10.1145/2888402)]
 
 **A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks**. Chen Cheng, Haiqin Yang, Irwin King, Michael R. Lyu. ACM Trans. Intell. Syst. Technol. 8(1): 10:1-10:21 (2016). [[paper](https://doi.org/10.1145/2901299)]
@@ -505,11 +579,9 @@ ACM Trans. Intell. Syst. Technol. 8(1): 5:1-5:20 (2016). [[paper](https://doi
 **A Spatial-Temporal Topic Model for the Semantic Annotation of POIs in LBSNs**. Tieke He, Hongzhi Yin, Zhenyu Chen, Xiaofang Zhou, Shazia W. Sadiq, Bin Luo. ACM Trans. Intell. Syst. Technol. 8(1): 12:1-12:24 (2016). [[paper](https://doi.org/10.1145/2905373)]
 
 #### More...
-Some papers of other Conferences (AAAI、WSDM) and Journal (IEEE T-ITS) will be added to the repository in the near future. 
+Some papers of other Conferences (AAAI、WSDM) and Journal (IEEE T-ITS) will be added to the repository in the near future.
 
 ### Acknowledgments
-This work is origining from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank Jingyuan Wang for helpful guidance and discussions, these papers are collected and classified by Dayan Pan, Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, Xianting Huang and me. We hope it will benefit who are researching and interested in spatio-temporal data mining and related areas. 
+This work is origining from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank Jingyuan Wang for helpful guidance and discussions, these papers are collected and classified by Dayan Pan, Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, Xianting Huang and me. We hope it will benefit who are researching and interested in spatio-temporal data mining and related areas.
 
 If you have any questions about this repository, please contact me by email (xiepeng21@foxmail.com).
-
-
