@@ -4,7 +4,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 - [Research of Spatio-Temporal Data Mining](#research-of-spatio-temporal-data-mining)
     - [Survey](#survey)
     - [Top-reference research papers](#top-reference-research-papers)
-      - [AAAI (2020)](#aaai-2020)
+      - [AAAI (2020)](#aaai2020)
       - [IJCAI (2016-2020)](#ijcai-2016-2020)
       - [KDD (2016-2020)](#kdd-2016-2020)
       - [ICDM (2016-2019)](#icdm-2016-2019)
