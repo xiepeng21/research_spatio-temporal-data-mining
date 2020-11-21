@@ -46,7 +46,7 @@ CoRR abs/2004.08555 (2020).  [[paper](https://arxiv.org/abs/2004.08555)]
 **Survey on traffic prediction in smart cities**. Attila M Nagy, Vilmos Simon. Pervasive and Mobile Computing 50: 148-163 (2018). [[paper](https://www.sciencedirect.com/science/article/pii/S1574119217306521)]
 
 ### Top-reference research papers
-#### AAAI（2019-2020）
+#### AAAI （2019-2020）
 ***
 **---2020---**
 
