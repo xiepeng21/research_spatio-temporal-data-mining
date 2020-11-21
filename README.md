@@ -4,11 +4,11 @@ A collection of research papers on ***spatio-temporal data mining*** .
 - [Research of Spatio-Temporal Data Mining](#research-of-spatio-temporal-data-mining)
     - [Survey](#survey)
     - [Top-reference research papers](#top-reference-research-papers)
-      - [AAAI (2020)](#aaai2020)
+      - [AAAI (2019-2020)](#aaai-2019-2020)
       - [IJCAI (2016-2020)](#ijcai-2016-2020)
       - [KDD (2016-2020)](#kdd-2016-2020)
       - [ICDM (2016-2019)](#icdm-2016-2019)
-      - [CIKM (2017-2019)](#cikm-2017-2019)
+      - [CIKM (2017-2020)](#cikm-2017-2020)
       - [WWW (2016-2020)](#www-2016-2020)
       - [SDM (2016-2020)](#sdm-2016-2020)
       - [SIGSPATIAL (2016-2019)](#sigspatial-2016-2019)
@@ -46,7 +46,7 @@ CoRR abs/2004.08555 (2020).  [[paper](https://arxiv.org/abs/2004.08555)]
 **Survey on traffic prediction in smart cities**. Attila M Nagy, Vilmos Simon. Pervasive and Mobile Computing 50: 148-163 (2018). [[paper](https://www.sciencedirect.com/science/article/pii/S1574119217306521)]
 
 ### Top-reference research papers
-#### AAAI（2020）
+#### AAAI（2019-2020）
 ***
 **---2020---**
 
@@ -117,6 +117,72 @@ CoRR abs/2004.08555 (2020).  [[paper](https://arxiv.org/abs/2004.08555)]
 **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**. Zhecheng Wang, Haoyuan Li, Ram Rajagopal. AAAI 2020. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/5450)]
 
 **Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation**. Ke Sun, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, Hongzhi Yin. AAAI 2020. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/5353)]
+
+**---2019---**
+
+**Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting**. Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301922)]
+
+**A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems**. Ling Pan, Qingpeng Cai, Zhixuan Fang, Pingzhong Tang, Longbo Huang. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011393)]
+
+**A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data**. Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011409)]
+
+**Congestion Graphs for Automated Time Predictions**. Arik Senderovich, J. Christopher Beck, Avigdor Gal, Matthias Weidlich. [[paper](https://doi.org/10.1609/aaai.v33i01.33014854)]
+
+**Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data**. Mike Li, Elija Perrier, Chang Xu. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301647)]
+
+**DeepETA: A Spatial-Temporal Sequential Neural Network Model for Estimating Time of Arrival in Package Delivery System**. Fan Wu, Lixia Wu. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301774)]
+
+**Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting**. Zulong Diao, Xin Wang, Dafang Zhang, Yingru Liu, Kun Xie, Shaoyao He. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301890)]
+
+**DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis**. Ziqian Lin, Jie Feng, Ziyang Lu, Yong Li, Depeng Jin. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011020)]
+
+**Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations**. Yanjie Fu, Pengyang Wang, Jiadi Du, Le Wu, Xiaolin Li. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301906)]
+
+**Estimating the Causal Effect from Partially Observed Time Series**. Akane Iseki, Yusuke Mukuta, Yoshitaka Ushiku, Tatsuya Harada. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33013919)]
+
+**Gated Residual Recurrent Graph Neural Networks for Traffic Prediction**. 
+Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Kang Wang, Jie Wang, Zeng Zeng. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301485)]
+
+**Incorporating Semantic Similarity with Geographic Correlation for Query-POI Relevance Learning**. Ji Zhao, Dan Peng, Chuhan Wu, Huan Chen, Meiyu Yu, Wanji Zheng, Li Ma, Hua Chai, Jieping Ye, Xiaohu Qie. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011270)]
+
+**Incomplete Label Multi-Task Deep Learning for Spatio-Temporal Event Subtype Forecasting**. Yuyang Gao, Liang Zhao, Lingfei Wu, Yanfang Ye, Hui Xiong, Chaowei Yang. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33013638)]
+
+**Joint Representation Learning for Multi-Modal Transportation Recommendation**. Hao Liu, Ting Li, Renjun Hu, Yanjie Fu, Jingjing Gu, Hui Xiong. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011036)]
+
+**Learning Heterogeneous Spatial-Temporal Representation for Bike-Sharing Demand Prediction**. Youru Li, Zhenfeng Zhu, Deqiang Kong, Meixiang Xu, Yao Zhao. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011004)]
+
+**Modelling of Bi-Directional Spatio-Temporal Dependence and Users' Dynamic Preferences for Missing POI Check-In Identification**. Dongbo Xi, Fuzhen Zhuang, Yanchi Liu, Jingjing Gu, Hui Xiong, Qing He. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015458)]
+
+**Neural Collective Graphical Models for Estimating Spatio-Temporal Population Flow from Aggregated Data**. Tomoharu Iwata, Hitoshi Shimizu. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33013935)]
+
+**Predicting Hurricane Trajectories Using a Recurrent Neural Network**. Sheila Alemany, Jonathan Beltran, Adrián Pérez, Sam Ganzfried. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301468)]
+
+**Region-Based Message Exploration over Spatio-Temporal Data Streams**. 
+Lisi Chen, Shuo Shang. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.3301873)]
+
+**Spatiality Preservable Factored Poisson Regression for Large-Scale Fine-Grained GPS-Based Population Analysis**. Masamichi Shimosaka, Yuta Hayakawa, Kota Tsubouchi. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011142)]
+
+**Optimal Interdiction of Urban Criminals with the Aid of Real-Time Information**. 
+Youzhi Zhang, Qingyu Guo, Bo An, Long Tran-Thanh, Nicholas R. Jennings. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33011262)]
+
+**Preference-Aware Task Assignment in On-Demand Taxi Dispatching: An Online Stable Matching Approach**. Boming Zhao, Pan Xu, Yexuan Shi, Yongxin Tong, Zimu Zhou, Yuxiang Zeng. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33012245)]
+
+**Preference-Aware Task Assignment in Spatial Crowdsourcing**. Yan Zhao, Jinfu Xia, Guanfeng Liu, Han Su, Defu Lian, Shuo Shang, Kai Zheng. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33012629)]
+
+**Predicting Urban Dispersal Events: A Two-Stage Framework through Deep Survival Analysis on Mobility Data**. Amin Vahedian, Xun Zhou, Ling Tong, W. Nick Street, Yanhua Li. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015199)]
+
+**Refining Coarse-Grained Spatial Data Using Auxiliary Spatial Data Sets with Various Granularities**. Yusuke Tanaka, Tomoharu Iwata, Toshiyuki Tanaka, Takeshi Kurashima, Maya Okawa, Hiroyuki Toda. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015091)]
+
+**RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series**. Qingsong Wen, Jingkun Gao, Xiaomin Song, Liang Sun, Huan Xu, Shenghuo Zhu. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015409)]
+
+**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction**. Huaxiu Yao, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015668)]
+
+**Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting**. Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33013656)]
+
+**TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents**. 
+Yuexin Ma, Xinge Zhu, Sibo Zhang, Ruigang Yang, Wenping Wang, Dinesh Manocha. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33016120)]
+
+**Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation**. Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou. AAAI 2019. [[paper](https://doi.org/10.1609/aaai.v33i01.33015877)]
 
 #### IJCAI (2016-2020)
 * * *
@@ -359,8 +425,50 @@ CoRR abs/2004.08555 (2020).  [[paper](https://arxiv.org/abs/2004.08555)]
 
 **Traffic speed prediction and congestion source exploration: A deep learning method**. Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong. ICDM 2016. [[paper](https://ieeexplore.ieee.org/abstract/document/7837874/)]
 
-#### CIKM (2017-2019)
+#### CIKM (2017-2020)
 ***
+
+**---2020---**
+
+**A Reproducibility Study of Deep and Surface Machine Learning Methods for Human-related Trajectory Prediction**. Bardh Prenkaj, Paola Velardi, Damiano Distante, Stefano Faralli. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412088)]
+
+**A Joint Inverse Reinforcement Learning and Deep Learning Model for Drivers' Behavioral Prediction**. Guojun Wu, Yanhua Li, Shikai Luo, Ge Song, Qichao Wang, Jing He, Jieping Ye, Xiaohu Qie, Hongtu Zhu. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412682)]
+
+**Deep Spatio-Temporal Multiple Domain Fusion Network for Urban Anomalies Detection**. Ruiqiang Liu, Shuai Zhao, Bo Cheng, Hao Yang, Haina Tang, Taoyu Li. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411920)]
+
+**Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction**. Qinge Xie, Tiancheng Guo, Yang Chen, Yu Xiao, Xin Wang, Ben Y. Zhao. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411873)]
+
+**DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation**. Hailin Hu, MingJian Tang, Chengcheng Bai. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412155)]
+
+**Elevated Road Network: A Metric Learning Method for Recognizing Whether a Vehicle is on an Elevated Road**. Xiaobing Zhang, Hailiang Xu, Jian Yang, Jia Sun, Fan Chen, Leiyun Li. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412703)]
+
+**GeneraLight: Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning**. Huichu Zhang, Chang Liu, Weinan Zhang, Guanjie Zheng, Yong Yu. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411859)]
+
+**Generating Full Spatiotemporal Vehicular Paths: A Data Fusion Approach**. Nan Xiao, Nan Hu, Liang Yu, Cheng Long. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412708)]
+
+**Imbalanced Time Series Classification for Flight Data Analyzing with Nonlinear Granger Causality Learning**. Hao Huang, Chenxiao Xu, Shinjae Yoo, Weizhong Yan, Tianyi Wang, Feng Xue. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412710)]
+
+**Knowledge Adaption for Demand Prediction based on Multi-task Memory Neural Network**. Can Li, Lei Bai, Wei Liu, Lina Yao, S. Travis Waller. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411965)]
+
+**Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation**. Buru Chang, Gwanghoon Jang, Seoyoon Kim, Jaewoo Kang. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411905)]
+
+**Multi-task Adversarial Spatial-Temporal Networks for Crowd Flow Prediction**. Senzhang Wang, Hao Miao, Hao Chen, Zhiqiu Huang. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412054)]
+
+**Magellan: A Personalized Travel Recommendation System Using Transaction Data**. Konik Kothari, Dhruv Gelda, Wei Zhang, Hao Yang. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412725)]
+
+**STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation**. Nicholas Lim, Bryan Hooi, See-Kiong Ng, Xueou Wang, Yong Liang Goh, Renrong Weng, Jagannadan Varadarajan. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411876)]
+
+**Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting**. Bin Lu, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411894)]
+
+**STP-TrellisNets: Spatial-Temporal Parallel TrellisNets for Metro Station Passenger Flow Prediction**. Junjie Ou, Jiahui Sun, Yichen Zhu, Haiming Jin, Yijuan Liu, Fan Zhang, Jianqiang Huang, Xinbing Wang. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411874)]
+
+
+**ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed**. Cheonbok Park, Chunggi Lee, Hyojin Bahng, Yunwon Tae, Seungmin Jin, Kihwan Kim, Sungahn Ko, Jaegul Choo. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411940)]
+
+**Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting**. Xiyue Zhang, Chao Huang, Yong Xu, Lianghao Xia. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3411941)]
+
+**You Are How You Use: Catching Gas Theft Suspects among Diverse Restaurant Users**. Xiaodu Yang, Xiuwen Yi, Shun Chen, Sijie Ruan, Junbo Zhang, Yu Zheng, Tianrui Li. CIKM2020. [[paper](https://doi.org/10.1145/3340531.3412751)]
+
 **---2019---**
 
 **CityTraffic: Modeling Citywide Traffic via Neural Memorization and Generalization Approach**. Xiuwen Yi, Zhewen Duan, Ting Li, Tianrui Li, Junbo Zhang, Yu Zheng.	CIKM 2019. [[paper](https://doi.org/10.1145/3357384.3357822)]
