@@ -30,7 +30,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 [ACM TIST (2016-2020)](TIST/TIST.md)
 
 #### More...
-Some papers of other Conferences (AAAI、WSDM) and Journal (IEEE TITS) will be added to the repository in the near future.
+Some papers of other Conferences and Journals will be added to the repository in the near future.
 
 ### Acknowledgments
 This work is origining from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank Jingyuan Wang for helpful guidance and discussions, these papers are collected and classified by Dayan Pan, Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, Xianting Huang and me. We hope it will benefit who are researching and interested in spatio-temporal data mining and related areas.
