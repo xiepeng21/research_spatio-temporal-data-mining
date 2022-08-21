@@ -7,7 +7,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 ### Top-reference research papers
 
-[AAAI (2019-2021)](AAAI/AAAI.md)
+[AAAI (2019-2022)](AAAI/AAAI.md)
 
 [IJCAI (2016-2020)](IJCAI/IJCAI.md)
 

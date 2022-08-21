@@ -1,5 +1,53 @@
-#### AAAI （2019-2021）
+#### AAAI （2019-2022）
 ***
+**---2022---**
+
+**1. Accurate and Scalable Gaussian Processes for Fine-Grained Air Quality Inference**. Zeel B Patel, Palak Purohit, Harsh Patel, Shivam Sahni, Nipun Batra. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/21467/21216)]
+
+**2. Bayesian Optimisation for Active Monitoring of Air Pollution**. Sigrid Passano Hellan, Christopher G. Lucas, Nigel H. Goddard. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AISI-2613.HellanS.pdf)]
+
+**3. Complementary Attention Gated Network for Pedestrian Trajectory Prediction**. Jinghai Duan, Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Liushuai Shi, Gang Hua. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)]
+
+**4. Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting**. Haitao Lin, Zhangyang Gao, Yongjie Xu, Lirong Wu, Ling Li, Stan Z. Li. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20711/20470)]
+
+**5. CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting**. Hui He, Qi Zhang, Simeng Bai, Kun Yi, Zhendong Niu. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)]
+
+**6. Conditional Loss and Deep Euler Scheme for Time Series Generation**. Carl Remlinger, Joseph Mikael, Romuald Elie. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20782/20541)]
+
+**7. CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, Madhav Marathe. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)]
+
+**8. Disentangled Spatiotemporal Graph Generative Model**. Yuanqi Du, Xiaojie Guo, Hengning Cao, Yanfang Ye, Zhao Liang. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-2430.DuY.pdf)]
+
+**9. DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events**. Tyler Wilson, Pang-Ning Tan, Lifeng Luo. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-10861.WilsonT.pdf)]
+
+**10. Event-Aware Multimodal Mobility Nowcasting**. Zhaonan Wang, Renhe Jiang, Hao Xue, Flora D. Salim, Xuan Song, Ryosuke Shibasaki. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20342/20101)]
+
+**11. Graph Neural Controlled Differential Equations for Traffic Forecasting**. Jeongwhan Choi, Hwangyong Choi, Jeehyun Hwang, Noseong Park. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20587/20346)] [[code](https://github.com/jeongwhanchoi/STG-NCDE)]
+
+**12. HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting**. Chenyu Wang, Zongyu Lin, Xiaochen Yang, Jiao Sun, Mingxuan Yue, Cyrus Shahabi. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20338/20097)]
+
+**13. I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding**. Sirisha Rambhatla, Zhengping Che, Yan Liu. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-10930.RambhatlaS.pdf)]
+
+**14. Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration**. Sijie He, Xinyan Li, Laurie Trenary, Benjamin A. Cash, Timothy DelSole, Arindam Banerjee. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20372/20131)] [[code](https://github.com/Sijie-umn/SSF-MIP)]
+
+**15. Machine-Learned Prediction Equilibrium for Dynamic Traffic Assignment**. Lukas Graf, Tobias Harks, Kostas Kollias, Michael Markl. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20438/20197)] [[code](https://github.com/Schedulaar/dynamic-prediction-equilibria)]
+
+**16. Multi-Type Urban Crime Prediction**. Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf)]
+
+**17. Real-Time Driver-Request Assignment in Ridesourcing**. Hao Wang, Xiaohui Bei. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1824.WangH.pdf)]
+
+**18. Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting**. Yuwei Fu, Di Wu, Benoit Boulet. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20618/20377)]
+
+**19. STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction**. Jiahao Ji, Jingyuan Wang, Zhe Jiang, Jiawei Jiang, Hu Zhang. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-211.JiJ.pdf)]
+
+**20. Social Interpretable Tree for Pedestrian Trajectory Prediction**. Liushuai Shi, Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Nanning Zheng, Gang Hua. AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)]
+
+**21. SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss**. Konstantin Klemmer, Tianlin Xu, Beatrice Acciaio, Daniel B. Neill. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20375/20134)]
+
+**22. Towards a Rigorous Evaluation of Time-Series Anomaly Detection**. Siwon Kim, Kukjin Choi, Hyun-Soo Choi, Byunghan Lee, Sungroh Yoon. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20375/20134)]
+
+**23. TS2Vec: Towards Universal Representation of Time Series**. Zhihan Yue, Yujing Wang, Juanyong Duan, Tianmeng Yang, Congrui Huang, Yunhai Tong, Bixiong Xu. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20881/20640)] [[code](https://github.com/yuezhihan/ts2vec)]
+
 **---2021---**
 
 **1. Attentive Neural Point Processes for Event Forecasting**. Yulong Gu. AAAI 2021. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16929/16736)]
