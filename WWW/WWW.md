@@ -1,5 +1,53 @@
 #### WWW (2016-2020)
 * * *
+**---2022---**
+
+**Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512064)]
+
+**Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction**. WWW 2022. [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512056)]
+
+**A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems**. WWW 2022. [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3511984)]
+
+**CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting**. WWW 2022. [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512037)]
+
+**EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512030)]
+
+**Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512145)]
+
+**STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512041)]
+
+**Knowledge-based Temporal Fusion Network for Interpretable Online Video Popularity Prediction**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3511934)]
+
+**---2021---**
+
+**Network of Tensor Time Series**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449969)]
+
+**Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series**. WWW 2021. [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449945)
+
+**SRVAR: Joint Discrete Hidden State Discovery and Structure Learning from Time Series Data**. WWW 2021. [[paper](https://faculty.ist.psu.edu/vhonavar/Papers/SRVARM.pdf)]
+
+**Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding**. WWW 2021. [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449903)]
+
+**AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph**. WWW 2021. [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449816)]
+
+**DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449983)]
+
+**DF-TAR: A Deep Fusion Network for Citywide Traffic Accident Risk Prediction with Dangerous Driving Behavior**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3450003)]
+
+**Fine-Grained Urban Flow Prediction**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449792)]
+
+**REST: Reciprocal Framework for Spatiotemporal-coupled Predictions**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449928)]
+
+**STUaNet: Understanding Uncertainty in Spatiotemporal Collective Human Mobility**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449817)]
+
+**STAN: Spatio-Temporal Attention Network for Next Location Recommendation**. WWW 2021. [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449998)]
+
+**Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449810)]
+
+**Joint Spatio-Textual Reasoning for Answering Tourism Questions**. WWW 2021. [[paper](https://dl.acm.org/doi/10.1145/3442381.3449857)]
+
+**Sketch-based Algorithms for Approximate Shortest Paths in Road Networks**. WWW 2021. [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3450083)]
+
 **---2020---**
 
 **A Multi-task Learning Framework for Road Attribute Updating via Joint Analysis of Map Data and GPS Traces**. Yifang Yin, Jagannadan Varadarajan, Guanfeng Wang, Xueou Wang, Dhruva Sahrawat, Roger Zimmermann, See-Kiong Ng. WWW 2020. [[paper](https://doi.org/10.1145/3366423.3380021)]
