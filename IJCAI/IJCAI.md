@@ -1,5 +1,71 @@
 #### IJCAI (2016-2020)
 * * *
+**---2022---**
+
+**When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal Adaptation Matters**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0282.pdf)]
+
+**FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0545.pdf)]
+
+**Harnessing Fourier Isovists and Geodesic Interaction for Long-Term Crowd Flow Prediction**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0185.pdf)]
+
+**Deciphering Environmental Air Pollution with Large Scale City Data**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0698.pdf)]
+
+**Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0304.pdf)]
+
+**Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0309.pdf)]
+
+**Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0490.pdf)]
+
+**MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation**. IJCAI 2022.  [[paper](https://zheng-kai.com/paper/ijcai_2022_fan.pdf)]
+
+**T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0334.pdf)]
+
+**Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0277.pdf)]
+
+**GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0332.pdf)]
+
+**Neural Contextual Anomaly Detection for Time Series**. IJCAI 2022.  [[paper](https://arxiv.org/pdf/2107.07702.pdf)]
+
+**Memory Augmented State Space Model for Time Series Forecasting**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0479.pdf)]
+
+**DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0413.pdf)]
+
+**A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification**. IJCAI 2022.  [[paper](https://cpsl.pratt.duke.edu/sites/cpsl.pratt.duke.edu/files/docs/gao_ijcai22.pdf)]
+
+**Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0328.pdf)]
+
+**Experimental Comparison and Survey of Twelve Time Series Anomaly Detection Algorithms (Extended Abstract)**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0801.pdf)]
+
+**TinyLight: Adaptive Traffic Signal Control on Devices with Extremely Limited Resources**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0555.pdf)]
+
+**Multi-Agent Reinforcement Learning for Traffic Signal Control through Universal Communication Method**. IJCAI 2022.  [[paper](https://www.ijcai.org/proceedings/2022/0535.pdf)]
+
+**---2021---**
+
+**Predicting Traffic Congestion Evolution: A Deep Meta Learning Approach**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0417.pdf)]
+
+**TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0498.pdf)]
+
+**Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0206.pdf)]
+
+**MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**. IJCAI 2021.  [[paper](https://zheng-kai.com/paper/ijcai_2021_xu.pdf)]
+
+**Multimodal Transformer Networks for Pedestrian Trajectory Prediction**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0174.pdf)]
+
+**Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0225.pdf)]
+
+**Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0374.pdf)]
+
+**Modeling Trajectories with Neural Ordinary Differential Equations**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0207.pdf)]
+
+**Multi-version Tensor Completion for Time-delayed Spatio-temporal Data**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0400.pdf)]
+
+**Traffic Congestion Alleviation over Dynamic Road Networks: Continuous Optimal Route Combination for Trip Query Streams**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0503.pdf)]
+
+**GraphReach: Position-Aware Graph Neural Network using Reachability Estimations**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0211.pdf)]
+
+**Dynamic Lane Traffic Signal Control with Group Attention and Multi-Timescale Reinforcement Learning**. IJCAI 2021.  [[paper](https://www.ijcai.org/proceedings/2021/0501.pdf)]
+
 **---2020---**
 
 **A Spatial Missing Value Imputation Method for Multi-view Urban Statistical Data**. Yongshun Gong, Zhibin Li, Jian Zhang, Wei Liu, Bei Chen, Xiangjun Dong. IJCAI 2020. [[paper](https://doi.org/10.24963/ijcai.2020/182)]
