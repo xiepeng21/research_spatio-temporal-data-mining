@@ -17,7 +17,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [CIKM (2017-2020)](CIKM/CIKM.md)
 
-[WWW (2016-2020)](WWW/WWW.md)
+[WWW (2016-2022)](WWW/WWW.md)
 
 [SDM (2016-2020)](SDM/SDM.md)
 
