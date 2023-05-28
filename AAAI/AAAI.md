@@ -1,5 +1,15 @@
-#### AAAI （2019-2022）
+#### AAAI （2019-2023）
 ***
+**---2023---**
+
+**1. Continuous Trajectory Generation Based on Two-Stage GAN**. Wenjun Jiang, Wayne Xin Zhao, Jingyuan Wang, Jiawei Jiang. AAAI 2023. [[paper](https://arxiv.org/abs/2301.07103)]
+
+**2. PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction**. Jiawei Jiang, Chengkai Han, Wayne Xin Zhao, Jingyuan Wang. AAAI 2023. [[paper](https://arxiv.org/abs/2301.07945)]
+
+**3. Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction**. Jiahao Ji, Jingyuan Wang, Chao Huang, Junjie Wu, Boren Xu, Zhenhe Wu, Junbo Zhang, Yu Zheng. AAAI 2023. [[paper](https://doi.org/10.48550/arXiv.2212.04475)]
+
+...
+
 **---2022---**
 
 **1. Accurate and Scalable Gaussian Processes for Fine-Grained Air Quality Inference**. Zeel B Patel, Palak Purohit, Harsh Patel, Shivam Sahni, Nipun Batra. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/21467/21216)]
