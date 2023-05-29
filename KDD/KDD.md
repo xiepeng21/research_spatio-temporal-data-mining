@@ -1,6 +1,111 @@
-#### KDD (2016-2020)
+#### KDD (2016-2023)
 
 * * *
+**---2023---**
+1. Graph Neural Processes for Spatio-Temporal Extrapolation
+2. Maintaining the status quo: Capturing invariant relations for OOD spatiotemporal learning
+3. SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records
+
+...
+
+**---2022---**
+
+1. [Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models](https://dl.acm.org/doi/pdf/10.1145/3534678.3539464). Tyler Wilson (Michigan State University); Andrew R McDonald (Michigan State University)*; Asadullah Hill Galib (Michigan State University ); Pang-Ning Tan (Michigan State University); Lifeng Luo (Michigan State University)
+
+2. [CAT: Beyond Efficient [[Transformer]] for Content-Aware Anomaly Detection in Event Sequences](https://dl.acm.org/doi/pdf/10.1145/3534678.3539155). SHENGMING ZHANG (Rutgers University); Yanchi Liu (NEC Labs America)*; Xuchao Zhang (NEC Labs America); Wei Cheng (NEC Laboratories America); Haifeng Chen (NEC Labs); Hui Xiong (the State University of New Jersey)
+
+3. [Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction](https://arxiv.org/abs/2206.15005). Liangzhe Han (Beihang University)*; Xiaojian Ma (Beihang University); [[Leilei Sun]] (Beihang Univerisity); Bowen Du (Beihang Univeristy); Yanjie Fu (University of Central Florida); Weifeng Lv (Beihang University); Hui Xiong (Hong Kong University of Science and Tech). 
+
+4. [DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps](https://dl.acm.org/doi/pdf/10.1145/3534678.3539029). Jianzhong Yang (Baidu); Xiaoqing Ye (baidu); Bin Wu (Beijing Baidu Co,. Ltd); yanlei gu (Beijing Baidu Co,. Ltd); Ziyu Wang (Baidu ); Deguo Xia (Baidu); Jizhou Huang (Baidu)*
+
+5. [Graph-Flashback Network for Next Location Recommendation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539383). Xuan Rao (University of Electronic Science and Technology of China)*; Lisi Chen (KAUST); Yong Liu (Nanyang Technological University); Shuo Shang (KAUST); Bin Yao (Shanghai Jiao Tong University); Peng Han (KAUST)
+
+6. [Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539084). Haomin Wen (Beijing Jiaotong University)*; Youfang Lin (Beijing Jiaotong University); Xiaowei Mao (Beijing Jiaotong University); Fan Wu (Cainiao Network); Yiji Zhao (Beijing JiaoTong University); Haochen Wang (BeijingJiaotong University); Jianbin Zheng (Cainiao Network); lixia wu (Cainiao Ltd. ); Haoyuan Hu (Cainiao Network); Huaiyu Wan (Beijing Jiaotong University)
+
+7. [Learning to Discover Causes of Traffic Congestion with Limited Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3534678.3539185). Mudan Wang (Tsinghua University); Huan Yan (Tsinghua University)*; Hongjie Sui (Tsinghua University); Fan Zuo (Alibaba Group); Yue Liu (Alibaba Group); Yong Li (Tsinghua University)
+
+8. [Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing](https://dl.acm.org/doi/pdf/10.1145/3534678.3539416). Weijia Zhang (School of Computer Science, University of Science and Technology of China)*; Hao Liu (HKUST); Jindong Han (The Hong Kong University of Science and Technology); Yong Ge (The University of Arizona); Hui Xiong (Hong Kong University of Science and Tech)
+
+9. [MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539397). Dachuan Liu (University of Electronic Science and Technology of China); Jin Wang (UCLA); Shuo Shang (KAUST); Peng Han (KAUST)*
+
+10. [MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539360). Yuan Xu (Soochow University)*; Jiajie Xu (Soochow University); Jing ZHAO (HKUST); Kai Zheng (University of Electronic Science and Technology of China); An Liu (Soochow University); Lei Zhao (Soochow University); Xiaofang Zhou (The Hong Kong University of Science and Technology)
+
+11. [Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539422). Rongfan Li (School of Information and Software Engineering, University of Electronic Science and Technology of China); Xinke Jiang (University of Electronic Science and Technology of China); Fan Zhou (School of Information and Software Engineering, University of Electronic Science and Technology of China)*; Goce Trajcevski (Iowa State University); Jin Wu (School of Information and Software Engneering, University of Electronic Science and Technology of China); Ting Zhong (School of Information and Software Engineering, University of Electronic Science and Technology of China)
+
+12. [Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539470). Yu Ma (AntGroup)*; Zhining Liu (Ant Group); Chenyi Zhuang (Ant Financial); Yize Tan (Ant Financial Services Group); Yi Dong (Ant Financial Services Group); WENLIANG ZHONG (Ant Group); Jinjie Gu (Ant Group)
+
+13. [Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival](https://dl.acm.org/doi/pdf/10.1145/3534678.3539051). Zebin Chen (South China University of Technology); Xiaolin Xiao (South China University of Technology)*; Yuejiao Gong (South China University of Technology); Jun Fang (Didi Chuxing); Nan Ma (Didi Chuxing); Hua Chai (Didi Chuxing); Zhiguang Cao (Singapore Institute of Manufacturing Technology)
+
+14. [Local Evaluation of Time Series Anomaly Detection Algorithms](https://dl.acm.org/doi/pdf/10.1145/3534678.3539339). Alexis Huet (Huawei Technologies France)*; Jose M Navarro (Huawei Technologies Co. Ltd.); dario rossi (Huawei). https://arxiv.org/abs/2206.13167
+
+15. [Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3534678.3539117). Siho Han (Sungkyunkwan University)*; Simon S Woo (Sungkyunkwan University (SKKU))
+
+16. [Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting](https://arxiv.org/abs/2206.13816). Junchen Ye (Beihang University)*; Zihan Liu (Beihang University); Bowen Du (Beihang Univeristy); [[Leilei Sun]] (Beihang Univerisity); Weimiao Li (BeiHang University); Yanjie Fu (University of Central Florida); Hui Xiong (Hong Kong University of Science and Tech).
+
+17. [Learning to Rotate: Quaternion [[Transformer]] for Complicated Periodical Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539234). Weiqi Chen (Alibaba Group)*; Wenwei WANG (Alibaba Group); Bingqing Peng (Alibaba Group); Qingsong Wen (Alibaba Group U.S.); Tian Zhou (Alibaba DAMO Academy); Liang Sun (Alibaba Group)
+
+18. [Learning Differential Operators for Interpretable Time Series Modeling](https://dl.acm.org/doi/pdf/10.1145/3534678.3539245). Yingtao Luo (Carnegie Mellon University)*; Chang Xu (Microsoft); Yang Liu (Microsoft); Weiqing Liu (Microsoft Research); Shun Zheng (Microsoft Research); Jiang Bian (Microsoft Research)
+
+19. [Multi-Variate Time Series Forecasting on Variable Subsets](https://dl.acm.org/doi/pdf/10.1145/3534678.3539394). Jatin Chauhan (Google AI)*; Aravindan Raghuveer (Google Research); Rishi Saket (Google Research); Jay Nandy (Google Research); Balaraman Ravindran (Indian Institute of Technology, Madras).
+
+20. [Modeling Network-level Traffic Flow Transitions on Sparse Data](https://dl.acm.org/doi/pdf/10.1145/3534678.3539236). Xiaoliang Lei ( Xi'an Jiaotong University); hao mei (New jersey institue of technology); Bin Shi (Xi'an jiaotong University); Hua Wei (NJIT)*
+
+21. [Optimizing Long-Term Efficiency and Fairness in Ride-Hailing via Joint Order Dispatching and Driver Repositioning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539060). Jiahui Sun (Shanghai Jiao Tong University); Haiming Jin (Shanghai Jiao Tong University)*; Zhaoxing Yang (Shanghai Jiao Tong University); Lu Su (Purdue University); Xinbing Wang (Shanghai Jiao Tong University)
+
+22. [ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences](https://dl.acm.org/doi/pdf/10.1145/3534678.3539477). Vinayak Gupta (IIT Delhi)*; Srikanta Bedathur (IIT Delhi). 
+
+23. [Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-supervised Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539028). Jiahao Ji (Beihang University)*; Jingyuan Wang (Beihang University); Junjie Wu (Beihang University); Boyang Han (JD Intelligent Cities Research); Junbo Zhang (JD Intelligent Cities Research); Yu Zheng (JD)
+
+24. [Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396). Zezhi Shao (Institute of Computing Technology, Chinese Academy of Sciences)*; Zhao Zhang (Institute of Computing Technology, Chinese Academy of Sciences ); Fei Wang (Institute of Computing Technology, Chinese Academy of Sciences); yongjun xu (Institute of Computing Technology, Chinese Academy of Sciences).
+
+25. [Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/pdf/10.1145/3534678.3539085). Xuying Meng (Chinese Academy of Sciences)*; Yequan Wang (ICT, CAS); Runxin Ma (Chinese Academy of Sciences); Haitong Luo (Chinese Academy of Sciences); Xiang Li (Alibaba Group); Yujun Zhang (Chinese Academy of Sciences)
+
+26. [Robust Event Forecasting with Spatiotemporal Confounder Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539427). Songgaojun Deng (STEVENS INSTITUTE OF TECHNOLOGY)*; Huzefa Rangwala (George Mason University); Yue Ning (Stevens Institute of Technology). 
+
+27. [Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks](https://dl.acm.org/doi/pdf/10.1145/3534678.3539154). Leonie A von Wahl (Volkswagen Group)*; Nicolas Tempelmeier (Volkswagen AG); Ashutosh Sao (L3S Research Center, Leibniz University Hannover); Elena Demidova (DSIS Research Group, University of Bonn).
+
+28. [Representative Routes Discovery From Massive Trajectories](https://dl.acm.org/doi/pdf/10.1145/3534678.3539079). Tingting Wang (RMIT University); Shixun Huang (RMIT); Zhifeng Bao (RMIT University)*; J. Shane Culpepper (RMIT University); Reza Arablouei (CSIRO)
+
+29. [Service Time Prediction for Delivery Tasks via Spatial Meta-Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539027). Sijie Ruan (Xidian University)*; Cheng Long (Nanyang Technological University); Zhipeng Ma (Southwest Jiaotong University); Jie Bao (JD Finance); Tianfu He (Harbin Institute of Technology); Ruiyuan Li (Chongqing University); Yiheng Chen (JD Logistics); Shengnan Wu (JD Logistics); Yu Zheng (JD)
+
+30. [Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer](https://dl.acm.org/doi/pdf/10.1145/3534678.3539281). Bin Lu (Shanghai Jiao Tong University); Xiaoying Gan (Shanghai Jiao Tong University)*; Weinan Zhang (Shanghai Jiao Tong University); Huaxiu Yao (Stanford University); Luoyi Fu (Shanghai Jiao Tong University); Xinbing Wang (Shanghai Jiao Tong University). 
+
+31. [Selective Cross-city Transfer Learning for Traffic Prediction via Source City Region Re-weighting](https://dl.acm.org/doi/pdf/10.1145/3534678.3539250). Yilun Jin (The Hong Kong University of Science and Technology)*; Kai Chen (HKUST); Qiang Yang (Hong Kong UST)
+
+32. [Spatio-Temporal Trajectory Similarity Learning in Road Networks](https://dl.acm.org/doi/pdf/10.1145/3534678.3539375). Ziquan Fang (Zhejiang University); Yuntao Du (Zhejiang University); xinjun zhu (zhejiang university); Danlei Hu (Zhejiang University); Lu Chen (Zhejiang University); Yunjun Gao (Zhejiang University)*; Christian S Jensen (Aalborg University).
+
+33. [Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data](https://dl.acm.org/doi/pdf/10.1145/3534678.3539186). Fudan Yu (Tsinghua University); Wenxuan Ao (Tsinghua University); Huan Yan (Tsinghua University)*; Guozhen Zhang (Tsinghua University); Wei Wu (SenseTime Group Limited); Yong Li (Tsinghua University)
+
+34. [Towards Learning Disentangled Representations for Time Series](https://dl.acm.org/doi/pdf/10.1145/3534678.3539140). Yuening Li (Texas A&M University)*; Zhengzhang Chen (NEC Laboratories America, Inc.); Daochen Zha (Rice University); Mengnan Du (Texas A&M University); Jingchao Ni ( NEC Laboratories America); Denghui Zhang (Rutgers University); Haifeng Chen (NEC Labs); Xia Hu (Rice University)
+
+35. [Task-Aware Reconstruction for Time-Series [[Transformer]]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539329). Ranak Roy Chowdhury (University of California, San Diego)*; Xiyuan Zhang (University of California, San Diego); Jingbo Shang (UC San Diego); Rajesh Gupta (UC San Diego); Dezhi Hong (UC San Diego)
+
+36. [TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539358). Di Yao (Institute of Computing Technology, Chinese Academy of Sciences)*; Haonan Hu (Institute of Computing Technology, Chinese Academy of Sciences); Lun Du (Microsoft Research); Gao Cong (Nanyang Technological Univesity); Shi Han (Microsoft Research); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences).
+
+37. [Uncertainty Quantification of Sparse Trip Demand Prediction with Spatial-Temporal Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3534678.3539093). Dingyi Zhuang (MIT)*; Shenhao Wang (MIT); Haris Koutsopoulos (Northeastern University); Jinhua Zhao (MIT)
+
+**---2021---**
+
+1. A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting
+2. A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
+3. Causal and Interpretable Rules for Time Series Analysis
+4. Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
+5. Curriculum Meta-Learning for Next POI Recommendation
+6. Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting
+7. Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding
+8. Micro-climate Prediction - Multi scale encoder-decoder based deep learning framework
+9. Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps
+10. MTrajRec: Map-Constrained Trajectory Recovery via Seq2Seq Multi-task Learning
+11. Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization
+12. Quantifying Uncertainty in Deep Spatiotemporal Forecasting
+13. Representation Learning of Multivariate Time Series using a Transformer Framework
+14. ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting
+15. Statistical models coupling allows for complex local multivariate time series analysis
+16. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting
+17. SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps
+18. TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction
+19. Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering
+
 **---2020---**
 
 **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**. Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng. KDD 2020. [[paper](https://dl.acm.org/doi/10.1145/3394486.3403122)]
