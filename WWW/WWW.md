@@ -1,5 +1,12 @@
-#### WWW (2016-2022)
+#### WWW (2016-2023)
 * * *
+**---2023---**
+1. **Automated Spatio-Temporal Graph Contrastive Learning**. 295-305. Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siu-Ming Yiu.
+2. **FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification**. 1437-1445. Mingyue Cheng, Qi Liu, Zhiding Liu, Zhi Li, Yucong Luo, Enhong Chen.
+3. **INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging**. 673-683. Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi, Chaochao Chen, Longbiao Chen.
+4. **Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**. 4150-4160. Yu Liu, Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li.
+5. **TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**. 2066-2075. Haozhen Zhang, Le Yu, Xi Xiao, Qing Li, Francesco Mercaldo, Xiapu Luo, Qixu Liu.
+
 **---2022---**
 
 **Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**. WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512064)]
