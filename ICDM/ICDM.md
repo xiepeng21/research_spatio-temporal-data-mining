@@ -1,5 +1,15 @@
-#### ICDM (2016-2019)
+#### ICDM (2016-2020)
 * * *
+**---2020---**
+1. **Building Autocorrelation-Aware Representations for Fine-Scale Spatiotemporal Prediction.** Yijun Lin, Yao-Yi Chiang, Meredith Franklin, Sandrah P. Eckel, José Luis Ambite._ ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338402)
+2. **cST-ML: Continuous Spatial-Temporal Meta-Learning for Traffic Dynamics Prediction.** Yingxue Zhang, Yanhua Li, Xun Zhou, Jun Luo. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338274)
+3. **FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction.** Xian Zhou, Yanyan Shen, Linpeng Huang. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338305)
+4. **Interpretable Spatiotemporal Deep Learning Model for Traffic Flow Prediction based on Potential Energy Fields.** Jiahao Ji, Jingyuan Wang, Zhe Jiang, Jingtian Ma, Hu Zhang. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338315)
+5. **Multi-Attention 3D Residual Neural Network for Origin-Destination Crowd Flow Prediction.** Jiaman Ma, Jeffrey Chan, Sutharshan Rajasegarar, Goce Ristanoski, Christopher Leckie. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338307)
+6. **Modeling Personalized Out-of-Town Distances in Location Recommendation.** Daizong Ding, Mi Zhang, Xudong Pan, Min Yang, Xiangnan He. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338387)
+7. **STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation.** Haoyu Han, Mengdi Zhang, Min Hou, Fuzheng Zhang, Zhongyuan Wang, Enhong Chen, Hongwei Wang, Jianhui Ma, Qi Liu. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338281)
+8. **TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting.** Xu Chen, Yuanxing Zhang, Lun Du, Zheng Fang, Yi Ren, Kaigui Bian, Kunqing Xie. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338393)
+
 **---2019---**
 
 **Boosted trajectory calibration for traffic state estimation**. Xitong Zhang, Liyang Xie, Zheng Wang, Jiayu Zhou. ICDM 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/8970880/)]
