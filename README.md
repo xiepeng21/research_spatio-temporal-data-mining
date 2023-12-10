@@ -21,7 +21,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [SDM (2016-2020)](SDM/SDM.md)
 
-[SIGSPATIAL (2016-2019)](SIGSPATIAL/SIGPATIAL.md)
+[SIGSPATIAL (2016-2021)](SIGSPATIAL/SIGPATIAL.md)
 
 ### Top-journal research papers
 
