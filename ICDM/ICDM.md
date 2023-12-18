@@ -1,5 +1,32 @@
-#### ICDM (2016-2020)
+#### ICDM (2016-2021)
 * * *
+**---2021---**
+
+1. **Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting**. Sheo Yon Jhin, Heejoo Shin, Seoyoung Hong, Minju Jo, Solhee Park, Noseong Park, Seungbeom Lee, Hwiyoung Maeng, Seungmin Jeon. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00035) #time-series-classification #time-series-forecasting 
+2. **A Statistically-Guided Deep Network Transformation and Moderation Framework for Data with Spatial Heterogeneity**. 	Yiqun Xie, Erhu He, Xiaowei Jia, Han Bao, Xun Zhou, Rahul Ghosh, Praveen Ravirathinam. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00088) #spatial-heterogeneity 
+3. **Adaptive Spatio-Temporal Convolutional Network for Traffic Prediction**. Mingyang Zhang, Yong Li, Funing Sun, Diansheng Guo, Pan Hui. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00191) #traffic-prediction 
+4. **Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions**. Vibhor Gupta, Jyoti Narwariya, Pankaj Malhotra, Lovekesh Vig, Gautam Shroff. ICDM 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00026) #multivariate-time-series 
+5. **CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network**. Andrea Tonon, Fabio Vandin. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00075) #time-series 
+6. **C3-GAN: Complex-Condition-Controlled Urban Traffic Estimation through Generative Adversarial Networks**. Yingxue Zhang, Yanhua Li, Xun Zhou, Zhenming Liu, Jun Luo. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00196) #urban-traffic-estimation 
+7. **DAC-ML: Domain Adaptable Continuous Meta-Learning for Urban Dynamics Prediction**. Xin Zhang, Yanhua Li, Xun Zhou, Oren Mangoubi, Ziming Zhang, Vincent Filardi, Jun Luo. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00102) #urban-dynamics-prediction 
+8. **Deep Incremental RNN for Learning Sequential Data: A Lyapunov Stable Dynamical System**. Ziming Zhang, Guojun Wu, Yanhua Li, Yun Yue, Xun Zhou. ICDM 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00108) #sequential-data 
+9. **LOGIC: Probabilistic Machine Learning for Time Series Classification**. Fabian Berns, Jan David Hüwel, Christian Beecks. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00113) #time-series-classification 
+10. **LIFE: Learning Individual Features for Multivariate Time Series Prediction with Missing Values**. Zhao-Yu Zhang, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou. ICDM 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00197) #time-series-prediction #missing-values 
+11. **MERITS: Medication Recommendation for Chronic Disease with Irregular Time-Series**. 	Shuai Zhang, Jianxin Li, Haoyi Zhou, Qishan Zhu, Shanghang Zhang, Danding Wang. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00192) #irregular-time-series 
+12. **Preference-aware Group Task Assignment in Spatial Crowdsourcing: A Mutual Information-based Approach**. 	Yunchuan Li, Yan Zhao, Kai Zheng. ICDM 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00046) #spatial-crowdsourcing 
+13. **PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series**. Futoon M. Abushaqra, Hao Xue, Yongli Ren, Flora D. Salim. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00109) #time-series-forecasting 
+14. **SSDNet: State Space Decomposition Neural Network for Time Series Forecasting**. Yang Lin, Irena Koprinska, Mashud Rana. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00048) #time-series-forecasting 
+15. **Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting**. 	Song Yang, Jiamou Liu, Kaiqi Zhao. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00093) #traffic-flow-forecasting 
+16. **STING: Self-attention based Time-series Imputation Networks using GAN**. Eunkyu Oh, Taehun Kim, Yunhu Ji, Sushil Khyalia. ICDM 2021. [paper]( https://doi.org/10.1109/ICDM51629.2021.00155) #time-series-imputation 
+17. **Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series**. Makoto Imamura, Takaaki Nakamura. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00132) #time-series 
+18. **SMATE: Semi-Supervised Spatio-Temporal Representation Learning on Multivariate Time Series**.  Jingwei Zuo, Karine Zeitouni, Yehia Taher. ICDM 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00206) #multivariate-time-series 
+19. **Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis**. Yang Li, Xianli Zhang, Buyue Qian, Zeyu Gao, Chong Guan, Yefeng Zheng, Hansen Zheng, Fenglang Wu, Chen Li. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00045) #time-series-analysis 
+20. **Towards Generating Real-World Time Series Data**. Hengzhi Pei, Kan Ren, Yuqing Yang, Chang Liu, Tao Qin, Dongsheng Li. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00058) #time-series
+21. **TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting**. Muhammad Afif Ali, Suriya Venkatesan, Victor C. Liang, Hannes Kruppa. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00110) #traffic-forecasting 
+22. **Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference**. 	Shaojie Dai, Jinshuai Wang, Chao Huang, Yanwei Yu, Junyu Dong. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00120) #GCN #traffic-volume-inference
+23. **Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting**. Bo Hui, Da Yan, Haiquan Chen, Wei-Shinn Ku. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00131) #traffic-forecasting
+24. **T3: Domain-Agnostic Neural Time-series Narration**. Mandar Sharma, John S. Brownstein, Naren Ramakrishnan. ICDM 2021.  [paper](https://doi.org/10.1109/ICDM51629.2021.00165) #time-series
+
 **---2020---**
 
 1. **Building Autocorrelation-Aware Representations for Fine-Scale Spatiotemporal Prediction.** Yijun Lin, Yao-Yi Chiang, Meredith Franklin, Sandrah P. Eckel, José Luis Ambite. ICDM 2020. [paper](https://ieeexplore.ieee.org/document/9338402)
