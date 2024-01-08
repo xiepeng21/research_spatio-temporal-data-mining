@@ -15,6 +15,8 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICLR (2023)](ICLR/ICLR.md)
 
+[NeurIPS (2023)](NeurIPS/NeurIPS.md)
+
 [ICDM (2016-2021)](ICDM/ICDM.md)
 
 [CIKM (2017-2020, 2023)](CIKM/CIKM.md)
