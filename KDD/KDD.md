@@ -2,11 +2,142 @@
 
 * * *
 **---2023---**
-1. Graph Neural Processes for Spatio-Temporal Extrapolation
-2. Maintaining the status quo: Capturing invariant relations for OOD spatiotemporal learning
-3. SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records
+# Cellular Traffic Generation
+1. Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns. Shuodi Hui, Huandong Wang, Tong Li, Xinghao Yang, Xing Wang, Junlan Feng, Lin Zhu, Chao Deng, Pan Hui, Depeng Jin, Yong Li. https://doi.org/10.1145/3580305.3599853
 
-...
+# Human Mobility Signature Identification
+2. ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM. Mingzhi Hu, Xin Zhang, Yanhua Li, Xun Zhou, Jun Luo. https://doi.org/10.1145/3580305.3599513
+
+# Irregular Time Series
+3. Precursor-of-Anomaly Detection for Irregular Time Series. Sheo Yon Jhin, Jaehoon Lee, Noseong Park. https://doi.org/10.1145/3580305.3599469
+
+4. Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series. 	Jiawen Zhang, Shun Zheng, Wei Cao, Jiang Bian, Jia Li. https://doi.org/10.1145/3580305.3599543
+
+# OOD Spatiotemporal Learning
+5.  Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning. 	Zhengyang Zhou, Qihe Huang, Kuo Yang, Kun Wang, Xu Wang, Yudong Zhang, Yuxuan Liang, Yang Wang. https://doi.org/10.1145/3580305.3599421
+
+# Pick-up and Delivery Route Prediction
+6. DRL4Route: A Deep Reinforcement Learning Framework for Pick-up and Delivery Route Prediction. Xiaowei Mao, Haomin Wen, Hengrui Zhang, Huaiyu Wan, Lixia Wu, Jianbin Zheng, Haoyuan Hu, Youfang Lin. https://doi.org/10.1145/3580305.3599811
+
+# Spatio-Temporal Representation Learning
+7. Urban Region Representation Learning with OpenStreetMap Building Footprints. 	Yi Li, Weiming Huang, Gao Cong, Hao Wang, Zheng Wang. https://doi.org/10.1145/3580305.3599538
+
+8. Generative Causal Interpretation Model for Spatio-Temporal Representation Learning. Yu Zhao, Pan Deng, Junting Liu, Xiaofeng Jia, Jianwei Zhang. https://doi.org/10.1145/3580305.3599363
+
+# Spatial-Temporal Knowledge Graph
+9. Learning Joint Relational Co-evolution in Spatial-Temporal Knowledge Graph for SMEs Supply Chain Prediction. 	Youru Li, Zhenfeng Zhu, Xiaobo Guo, Linxun Chen, Zhouyin Wang, Yinmeng Wang, Bing Han, Yao Zhao. https://doi.org/10.1145/3580305.3599855
+
+# Spatio-temporal Forecasting
+10. Frigate: Frugal Spatio-temporal Forecasting on Road Networks. Mridul Gupta, Hariprasad Kodamana, Sayan Ranu. https://doi.org/10.1145/3580305.359935
+
+# Spatio-Temporal Extrapolation
+11. Graph Neural Processes for Spatio-Temporal Extrapolation. Junfeng Hu, Yuxuan Liang, Zhencheng Fan, Hongyang Chen, Yu Zheng, Roger Zimmermann. https://doi.org/10.1145/3580305.3599372
+
+# Spatial-Temporal Graph Neural Network
+12. Localised Adaptive Spatial-Temporal Graph Neural Network. Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao. https://doi.org/10.1145/3580305.3599418
+
+# Stay Area Inference of Vehicles
+13. SAInf: Stay Area Inference of Vehicles using Surveillance Camera Records. Zhipeng Ma, Chuishi Meng, Huimin Ren, Sijie Ruan, Jie Bao, Xiaoting Wang, Tianrui Li, Yu Zheng. https://doi.org/10.1145/3580305.3599952
+
+# Temporal Relationship Inference
+14. Multi-Temporal Relationship Inference in Urban Areas. Shuangli Li, Jingbo Zhou, Ji Liu, Tong Xu, Enhong Chen, Hui Xiong. https://dl.acm.org/doi/10.1145/3580305.3599440
+
+# Traffic Forecasting
+15. Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training. Fan Liu, Weijia Zhang, Hao Liu. https://doi.org/10.1145/3580305.3599492
+
+16. Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities. Yilun Jin, Kai Chen, Qiang Yang. https://doi.org/10.1145/3580305.3599529
+
+17. Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction. Binwu Wang, Yudong Zhang, Xu Wang, Pengkun Wang, Zhengyang Zhou, Lei Bai, Yang Wang. https://doi.org/10.1145/3580305.3599463
+
+# Trajectories Generation
+18. Practical Synthetic Human Trajectories Generation Based on Variational Point Processes. Qingyue Long, Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li. https://doi.org/10.1145/3580305.3599888
+
+# Travel Time Prediction
+19. Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi. Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen. https://doi.org/10.1145/3580305.3599925
+
+# Traffic Signal Control
+20. Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning. 	Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang. https://doi.org/10.1145/3580305.3599528
+
+21. TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer. 	Qiang Wu, Mingyuan Li, Jun Shen, Linyuan Lü, Bo Du, Ke Zhang. https://doi.org/10.1145/3580305.3599530
+
+22. CBLab: Supporting the Training of Large-scale Traffic Control Policies with Scalable Traffic Simulation. Chumeng Liang, Zherui Huang, Yicheng Liu, Zhanyu Liu, Guanjie Zheng, Hanyuan Shi, Kan Wu, Yuhao Du, Fuliang Li, Zhenhui Jessie Li. https://doi.org/10.1145/3580305.3599789
+
+# Traffic Congestion Analysis
+23. MM-DAG: Multi-task DAG Learning for Multi-modal Data - with Application for Traffic Congestion Analysis. Tian Lan, Ziyue Li, Zhishuai Li, Lei Bai, Man Li, Fugee Tsung, Wolfgang Ketter, Rui Zhao, Chen Zhang. https://doi.org/10.1145/3580305.3599436
+
+# Time-of-Arrival Estimation
+ 24. iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation. 	Jindong Han, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. https://doi.org/10.1145/3580305.3599842
+
+# Time Series Forecasting
+25. TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting. Vijay Ekambaram, Arindam Jati, Nam Nguyen, Phanwadee Sinthong, Jayant Kalagnanam. https://doi.org/10.1145/3580305.3599533
+
+26. Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting. Arindam Jati, Vijay Ekambaram, Shaonli Pal, Brian Quanz, Wesley M. Gifford, Pavithra Harsha, Stuart Siegel, Sumanta Mukherjee, Chandra Narayanaswami. https://doi.org/10.1145/3580305.3599378
+
+27. When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting. Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodríguez, Chao Zhang, B. Aditya Prakash. https://doi.org/10.1145/3580305.3599547
+
+
+# Time Series Classification
+28. Self-supervised Classification of Clinical Multivariate Time Series using Time Series Dynamics. Yakir Yehuda, Daniel Freedman, Kira Radinsky. https://doi.org/10.1145/3580305.3599954
+
+29. Online Few-Shot Time Series Classification for Aftershock Detection. Sheng Zhong, Vinicius M. A. Souza, Glenn Eli Baker, Abdullah Mueen. https://doi.org/10.1145/3580305.3599879
+
+30. FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework. Raneen Younis, Zahra Ahmadi, Abdul Hakmeh, Marco Fisichella. https://doi.org/10.1145/3580305.3599354
+
+# Time Series Representation
+31. Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation. Makoto Imamura, Takaaki Nakamura. https://doi.org/10.1145/3580305.3599310
+
+# Time Series Imputation
+32. Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders.  	Dingsu Wang, Yuchen Yan, Ruizhong Qiu, Yada Zhu, Kaiyu Guan, Andrew Margenot, Hanghang Tong. https://doi.org/10.1145/3580305.3599444
+
+33. An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series. 	Xu Wang, Hongbo Zhang, Pengkun Wang, Yudong Zhang, Binwu Wang, Zhengyang Zhou, Yang Wang. https://doi.org/10.1145/3580305.3599257
+
+# Time Series Analysis
+34. WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis. Jingyuan Wang, Chen Yang, Xiaohan Jiang, Junjie Wu. https://doi.org/10.1145/3580305.3599549
+
+# Time-Series Anomaly Detection
+35. Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models. 	Chunjing Xiao, Zehua Gou, Wenxin Tai, Kunpeng Zhang, Fan Zhou. https://doi.org/10.1145/3580305.3599391
+
+36. DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection. Yiyuan Yang, Chaoli Zhang, Tian Zhou, Qingsong Wen, Liang Sun. https://doi.org/10.1145/3580305.3599295
+
+# Urban Knowledge Graph
+37. Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge Graph. Shiyuan Zhang, Tong Li, Shuodi Hui, Guangyu Li, Yanping Liang, Li Yu, Depeng Jin, Yong Li. https://doi.org/10.1145/3580305.3599801
+
+# Others
+38. QTNet: Theory-based Queue Length Prediction for Urban Traffic. Ryu Shirakami, Toshiya Kitahara, Koh Takeuchi, Hisashi Kashima. https://doi.org/10.1145/3580305.3599890
+
+39. Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network. Jinzhu Mao, Liu Cao, Chen Gao, Huandong Wang, Hangyu Fan, Depeng Jin, Yong Li. https://doi.org/10.1145/3580305.3599804
+
+40. On Hierarchical Disentanglement of Interactive Behaviors for Multimodal Spatiotemporal Data with Incompleteness. Jiayi Chen, Aidong Zhang. https://doi.org/10.1145/3580305.3599448
+
+41. Spatio-temporal Diffusion Point Processes. Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li. https://doi.org/10.1145/3580305.3599511
+
+42. A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management. Liyue Chen, Jiangyi Fang, Zhe Yu, Yongxin Tong, Shaosheng Cao, Leye Wang. https://doi.org/10.1145/3580305.3599760
+
+43. Causal Discovery from Temporal Data. Chang Gong, Di Yao, Chuzhe Zhang, Wenbin Li, Jingping Bi, Lun Du, Jin Wang. https://doi.org/10.1145/3580305.3599552
+
+44. Using Motif Transitions for Temporal Graph Generation. Penghang Liu, Ahmet Erdem Sariyüce. https://doi.org/10.1145/3580305.3599540
+
+45. Source-Free Domain Adaptation with Temporal Imputation for Time Series Data. Mohamed Ragab, Emadeldeen Eldele, Min Wu, Chuan-Sheng Foo, Xiaoli Li, Zhenghua Chen. https://doi.org/10.1145/3580305.3599507
+
+46. Temporal Dynamics-Aware Adversarial Attacks on Discrete-Time Dynamic Graph Models. Kartik Sharma, Rakshit Trivedi, Rohit Sridhar, Srijan Kumar. https://doi.org/10.1145/3580305.3599517
+
+47. Optimizing Traffic Control with Model-Based Learning: A Pessimistic Approach to Data-Efficient Policy Inference. Mayuresh Kunjir, Sanjay Chawla, Siddarth Chandrasekar, Devika Jay, Balaraman Ravindran. https://doi.org/10.1145/3580305.3599459
+
+48. A Study of Situational Reasoning for Traffic Understanding. Jiarui Zhang, Filip Ilievski, Kaixin Ma, Aravinda Kollaa, Jonathan Francis, Alessandro Oltramari. https://doi.org/10.1145/3580305.3599246
+
+49. Causal Effect Estimation on Hierarchical Spatial Graph Data. Koh Takeuchi, Ryo Nishida, Hisashi Kashima, Masaki Onishi. https://doi.org/10.1145/3580305.3599269
+
+50. Spatial Heterophily Aware Graph Neural Networks. Congxi Xiao, Jingbo Zhou, Jizhou Huang, Tong Xu, Hui Xiong. https://doi.org/10.1145/3580305.3599510
+
+51. CF-GODE: Continuous-Time Causal Inference for Multi-Agent Dynamical Systems. Song Jiang, Zijie Huang, Xiao Luo, Yizhou Sun. https://doi.org/10.1145/3580305.3599272
+
+52. Granger Causal Chain Discovery for Sepsis-Associated Derangements via Continuous-Time Hawkes Processes. Song Wei, Yao Xie, Christopher S. Josef, Rishikesan Kamaleswaran. https://doi.org/10.1145/3580305.3599369
+
+53. DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph. Kaike Zhang, Qi Cao, Gaolin Fang, Bingbing Xu, Hongjian Zou, Huawei Shen, Xueqi Cheng. https://doi.org/10.1145/3580305.3599319
+
+54. Time-to-Event Modeling with Hypernetwork based Hawkes Process. Manisha Dubey, P. K. Srijith, Maunendra Sankar Desarkar. https://doi.org/10.1145/3580305.3599912
+
+55. ILRoute: A Graph-based Imitation Learning Method to Unveil Riders' Routing Strategies in Food Delivery Service. Tao Feng, Huan Yan, Huandong Wang, Wenzhen Huang, Yuyang Han, Hongsen Liao, Jinghua Hao, Yong Li. https://doi.org/10.1145/3580305.3599844
 
 **---2022---**
 

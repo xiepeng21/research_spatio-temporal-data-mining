@@ -10,99 +10,101 @@
 
 4. **Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs**. https://openreview.net/forum?id=uvFhCUPjtI
 
-5. **ClimODE: Climate Forecasting With Physics-informed Neural ODEs**. https://openreview.net/forum?id=xuY33XhEGR
+5. **Bayesian Optimization through Gaussian Cox Process Models for Spatio-temporal Data**. https://openreview.net/forum?id=9j1RD9LlWH
 
-6. **Conditional Information Bottleneck Approach for Time Series Imputation**. https://openreview.net/forum?id=K1mcPiDdOJ
+6. **ClimODE: Climate Forecasting With Physics-informed Neural ODEs**. https://openreview.net/forum?id=xuY33XhEGR
 
-7. **CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting**. https://openreview.net/forum?id=MJksrOhurE
+7. **Conditional Information Bottleneck Approach for Time Series Imputation**. https://openreview.net/forum?id=K1mcPiDdOJ
 
-8. **Copula Conformal prediction for multi-step time series prediction**. https://openreview.net/forum?id=ojIJZDNIBj
+8. **CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting**. https://openreview.net/forum?id=MJksrOhurE
 
-9. **CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery**. https://openreview.net/forum?id=iad1yyyGme
+9. **Copula Conformal prediction for multi-step time series prediction**. https://openreview.net/forum?id=ojIJZDNIBj
 
-10. **Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks**. https://openreview.net/forum?id=AJBkfwXh3u
+10. **CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery**. https://openreview.net/forum?id=iad1yyyGme
 
-11. **Diffusion-TS: Interpretable Diffusion for General Time Series Generation**. https://openreview.net/forum?id=4h1apFjO99
+11. **Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks**. https://openreview.net/forum?id=AJBkfwXh3u
 
-12. **Disentangling Time Series Representations via Contrastive based $l$− Variational Inference**.  https://openreview.net/forum?id=iI7hZSczxE
+12. **Diffusion-TS: Interpretable Diffusion for General Time Series Generation**. https://openreview.net/forum?id=4h1apFjO99
 
-13. **DAM: A Foundation Model for Forecasting**. https://openreview.net/forum?id=4NhMhElWqP
+13. **Disentangling Time Series Representations via Contrastive based $l$− Variational Inference**.  https://openreview.net/forum?id=iI7hZSczxE
 
-14. **FITS: Modeling Time Series with 10$k$ Parameters**. https://openreview.net/forum?id=bWcnvZ3qMb
+14. **DAM: A Foundation Model for Forecasting**. https://openreview.net/forum?id=4NhMhElWqP
 
-15. **Explaining Time Series via Contrastive and Locally Sparse Perturbations**. https://openreview.net/forum?id=qDdSRaOiyb
+15. **FITS: Modeling Time Series with 10$k$ Parameters**. https://openreview.net/forum?id=bWcnvZ3qMb
 
-16. **Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns**. https://openreview.net/forum?id=CdjnzWsQax
+16. **Explaining Time Series via Contrastive and Locally Sparse Perturbations**. https://openreview.net/forum?id=qDdSRaOiyb
 
-17. **GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings**. https://openreview.net/forum?id=c56TWtYp0W
+17. **Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns**. https://openreview.net/forum?id=CdjnzWsQax
 
-18. **Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs**. https://openreview.net/forum?id=eY7sLb0dVF
+18. **GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings**. https://openreview.net/forum?id=c56TWtYp0W
 
-19. **GeoLLM: Extracting Geospatial Knowledge from Large Language Models**. https://openreview.net/forum?id=TqL2xBwXP3
+19. **Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs**. https://openreview.net/forum?id=eY7sLb0dVF
 
-20. **Inherently Interpretable Time Series Classification via Multiple Instance Learning**. https://openreview.net/forum?id=xriGRsoAza
+20. **GeoLLM: Extracting Geospatial Knowledge from Large Language Models**. https://openreview.net/forum?id=TqL2xBwXP3
 
-21. **iTransformer: Inverted Transformers Are Effective for Time Series Forecasting**. https://openreview.net/forum?id=JePfAI8fah
+21. **Inherently Interpretable Time Series Classification via Multiple Instance Learning**. https://openreview.net/forum?id=xriGRsoAza
 
-22. **Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction**. https://openreview.net/forum?id=aFWUY3E7ws
+22. **iTransformer: Inverted Transformers Are Effective for Time Series Forecasting**. https://openreview.net/forum?id=JePfAI8fah
 
 23. **Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction**. https://openreview.net/forum?id=aFWUY3E7ws
 
-24. **Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data**. https://openreview.net/forum?id=9zhHVyLY4K
+24. **Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction**. https://openreview.net/forum?id=aFWUY3E7ws
 
-25. **Learning to Embed Time Series Patches Independently**. https://openreview.net/forum?id=WS7GuBDFa2
+25. **Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data**. https://openreview.net/forum?id=9zhHVyLY4K
 
-26. **ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis**. https://openreview.net/forum?id=vpJMJerXHU
+26. **Learning to Embed Time Series Patches Independently**. https://openreview.net/forum?id=WS7GuBDFa2
 
-27. **Multi-Resolution Diffusion Models for Time Series Forecasting**. https://openreview.net/forum?id=mmjnr0G8ZY
+27. **ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis**. https://openreview.net/forum?id=vpJMJerXHU
 
-28. **MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process**. https://openreview.net/forum?id=CZiY6OLktd
+28. **Multi-Resolution Diffusion Models for Time Series Forecasting**. https://openreview.net/forum?id=mmjnr0G8ZY
 
-29. **Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting**. https://openreview.net/forum?id=lJkOCMP2aW
+29. **MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process**. https://openreview.net/forum?id=CZiY6OLktd
 
-30. **NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling**. https://openreview.net/forum?id=sLdVl0q68X
+30. **Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting**. https://openreview.net/forum?id=lJkOCMP2aW
 
-31. **Parametric Augmentation for Time Series Contrastive Learning**. https://openreview.net/forum?id=EIPLdFy3vp
+31. **NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling**. https://openreview.net/forum?id=sLdVl0q68X
 
-32. **Periodicity Decoupling Framework for Long-term Series Forecasting**. https://openreview.net/forum?id=dp27P5HBBt
+32. **Parametric Augmentation for Time Series Contrastive Learning**. https://openreview.net/forum?id=EIPLdFy3vp
 
-33. **Retrieval-Based Reconstruction For Time-series Contrastive Learning**. https://openreview.net/forum?id=3zQo5oUvia
+33. **Periodicity Decoupling Framework for Long-term Series Forecasting**. https://openreview.net/forum?id=dp27P5HBBt
 
-34. **Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators**. https://openreview.net/forum?id=JiTVtCUOpS
+34. **Retrieval-Based Reconstruction For Time-series Contrastive Learning**. https://openreview.net/forum?id=3zQo5oUvia
 
-35. **RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies**. https://openreview.net/forum?id=ltZ9ianMth
+35. **Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators**. https://openreview.net/forum?id=JiTVtCUOpS
 
-36. **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**. https://openreview.net/forum?id=s9z0HzWJJp
+36. **RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies**. https://openreview.net/forum?id=ltZ9ianMth
 
-37. **Soft Contrastive Learning for Time Series**. https://openreview.net/forum?id=pAsQSWlDUf
+37. **SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series**. https://openreview.net/forum?id=s9z0HzWJJp
 
-38. **Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data**. https://openreview.net/forum?id=4VIgNuQ1pY
+38. **Soft Contrastive Learning for Time Series**. https://openreview.net/forum?id=pAsQSWlDUf
 
-39. **STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction**. https://openreview.net/forum?id=6iwg437CZs
+39. **Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data**. https://openreview.net/forum?id=4VIgNuQ1pY
 
-40. **Self-Supervised Contrastive Forecasting**. https://openreview.net/forum?id=nBCuRzjqK7
+40. **STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction**. https://openreview.net/forum?id=6iwg437CZs
 
-41. **Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting**. https://openreview.net/forum?id=qae04YACHs
+41. **Self-Supervised Contrastive Forecasting**. https://openreview.net/forum?id=nBCuRzjqK7
 
-42. **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**. https://openreview.net/forum?id=Unb5CVPtae
+42. **Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting**. https://openreview.net/forum?id=qae04YACHs
 
-43. **TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series**. https://openreview.net/forum?id=Tuh4nZVb0g
+43. **Time-LLM: Time Series Forecasting by Reprogramming Large Language Models**. https://openreview.net/forum?id=Unb5CVPtae
 
-44. **TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**. https://openreview.net/forum?id=YH5w12OUuU
+44. **TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series**. https://openreview.net/forum?id=Tuh4nZVb0g
 
-45. **Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach**. https://openreview.net/forum?id=K2c04ulKXn
+45. **TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**. https://openreview.net/forum?id=YH5w12OUuU
 
-46. **TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series**. https://openreview.net/forum?id=xtOydkE1Ku
+46. **Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach**. https://openreview.net/forum?id=K2c04ulKXn
 
-47. **Towards Transparent Time Series Forecasting**. https://openreview.net/forum?id=TYXtXLYHpR
+47. **TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series**. https://openreview.net/forum?id=xtOydkE1Ku
 
-48. **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**. https://openreview.net/forum?id=7oLshfEIC2
+48. **Towards Transparent Time Series Forecasting**. https://openreview.net/forum?id=TYXtXLYHpR
 
-49. **T-Rep: Representation Learning for Time Series using Time-Embeddings**. https://openreview.net/forum?id=3y2TfP966N
+49. **TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting**. https://openreview.net/forum?id=7oLshfEIC2
 
-50. **TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts**. https://openreview.net/forum?id=N0nTk5BSvO
+50. **T-Rep: Representation Learning for Time Series using Time-Embeddings**. https://openreview.net/forum?id=3y2TfP966N
 
-51. **VQ-TR: Vector Quantized Attention for Time Series Forecasting**. https://openreview.net/forum?id=IxpTsFS7mh
+51. **TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts**. https://openreview.net/forum?id=N0nTk5BSvO
+
+52. **VQ-TR: Vector Quantized Attention for Time Series Forecasting**. https://openreview.net/forum?id=IxpTsFS7mh
 
 **---2023---**
 1. **A Time Series is Worth 64 Words: Long-term Forecasting with Transformers**. Yuqi Nie, Nam H Nguyen, Phanwadee Sinthong, Jayant Kalagnanam. [paper](https://openreview.net/forum?id=Jbdc0vTOcol) #time-series-forecasting

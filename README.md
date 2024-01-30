@@ -9,23 +9,31 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [AAAI (2019-2023)](AAAI/AAAI.md)
 
-[IJCAI (2016-2023)](IJCAI/IJCAI.md)
+[CIKM (2017-2020, 2023)](CIKM/CIKM.md)
 
-[KDD (2016-2023)](KDD/KDD.md)
+[ECML-PKDD (2023)](ECML-PKDD/ECML-PKDD.md)
+
+[IJCAI (2016-2023)](IJCAI/IJCAI.md)
 
 [ICLR (2023-2024)](ICLR/ICLR.md)
 
-[NeurIPS (2023)](NeurIPS/NeurIPS.md)
+[ICML (2023)](ICML/ICML.md)
 
 [ICDM (2016-2021)](ICDM/ICDM.md)
 
-[CIKM (2017-2020, 2023)](CIKM/CIKM.md)
+[ICDM (2023)](ICDE/ICDE.md)
 
-[WWW (2016-2023)](WWW/WWW.md)
+[KDD (2016-2023)](KDD/KDD.md)
+
+[NeurIPS (2023)](NeurIPS/NeurIPS.md)
 
 [SDM (2016-2020)](SDM/SDM.md)
 
 [SIGSPATIAL (2016-2021)](SIGSPATIAL/SIGPATIAL.md)
+
+[VLDB (2023)](VLDB/VLDB.md)
+
+[WWW (2016-2023)](WWW/WWW.md)
 
 ### Top-journal research papers
 
@@ -33,10 +41,25 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ACM TIST (2016-2020)](TIST/TIST.md)
 
-#### More...
+### More...
 Some papers from other Conferences and Journals will be added to the repository in the near future.
 
+### Related Sources
+1. Spatio-temporal data mining column-Ban Mu Fang Tang https://www.zhihu.com/column/c_1437144001987792896
+
+2. Summary of papers from the top conference on spatiotemporal data-NO1WDS https://www.zhihu.com/column/c_1683852314232885248
+
+3. Interpretation and summary of Spatio-temporal papers-Ye Di Cang Hua https://www.zhihu.com/people/geng-dong-dong-80/posts
+
+4. Urban-computing-papers https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers?tab=readme-ov-file
+
+5. Traffic Prediction Paper Collection https://github.com/LibCity/Bigscity-LibCity-PaperList
+
+6. Time-Series Work Summary https://github.com/lixus7/Time-Series-Works-Conferences
+
+7. GNN4Traffic https://github.com/jwwthu/GNN4Traffic
+
 ### Acknowledgments
-This work originated from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank Jingyuan Wang for helpful guidance and discussions, these papers are collected and classified by Dayan Pan, Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, Xianting Huang and me. We hope it will benefit those researching and interested in spatio-temporal data mining and related areas.
+This work originated from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank [Jingyuan Wang](https://scholar.google.com/citations?user=qsLImx8AAAAJ&hl=zh-CN&oi=ao) for helpful guidance and discussions, these papers are collected and classified by [Dayan Pan](https://scholar.google.com/citations?user=GC0NOcsAAAAJ&hl=zh-CN&oi=ao), Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, [Xianting Huang](https://www.linkedin.com/in/xianting-huang-27b67888) and [me](https://scholar.google.com/citations?user=iCkan18AAAAJ&hl=zh-CN). We hope it will benefit those researching and interested in spatio-temporal data mining and related areas.
 
 If you have any questions about this repository, please get in touch with me by email (gxiepeng@gmail.com).
