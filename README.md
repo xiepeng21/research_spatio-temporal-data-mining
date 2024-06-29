@@ -1,6 +1,9 @@
 # Research of Spatio-Temporal Data Mining
 A collection of research papers on ***spatio-temporal data mining*** .
 
+> *Updates*
+- 2024.06.29 add ICML 2024 papers.
+
 ### Survey
 
 [Survey (2018-2023)](Survey/Survey.md)
@@ -17,7 +20,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICLR (2023-2024)](ICLR/ICLR.md)
 
-[ICML (2023)](ICML/ICML.md)
+[ICML (2023-2024)](ICML/ICML.md)
 
 [ICDM (2016-2021)](ICDM/ICDM.md)
 
