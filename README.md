@@ -24,7 +24,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICDM (2016-2021)](ICDM/ICDM.md)
 
-[ICDM (2023)](ICDE/ICDE.md)
+[ICDE (2023)](ICDE/ICDE.md)
 
 [KDD (2016-2023)](KDD/KDD.md)
 
