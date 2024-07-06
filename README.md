@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.07.06 add IJCAI 2024 papers.
 - 2024.06.29 add ICML 2024 papers.
 
 ### Survey
@@ -16,7 +17,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ECML-PKDD (2023)](ECML-PKDD/ECML-PKDD.md)
 
-[IJCAI (2016-2023)](IJCAI/IJCAI.md)
+[IJCAI (2016-2024)](IJCAI/IJCAI.md)
 
 [ICLR (2023-2024)](ICLR/ICLR.md)
 

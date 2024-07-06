@@ -1,5 +1,41 @@
-#### IJCAI (2016-2023)
+#### IJCAI (2016-2024)
 * * *
+**---2024---**
+
+1. A Graph-based Representation Framework for Trajectory Recovery via Spatiotemporal Interval-Informed Seq2Seq. 
+
+2. Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation. 
+
+3. Exploring Urban Semantics: A Multimodal Model for POI Semantic Annotation with Street View Images and Place Names.
+
+4. Enhancing Fine-Grained Urban Flow Inference via Incremental Neural Operator. 
+
+5. Full Bayesian Significance Testing for Neural Networks in Traffic Forecasting. 
+
+6. KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation. 
+
+7. Learning Hierarchy-Enhanced POI Category Representations Using Disentangled Mobility Sequences. 
+
+8. Multi-Modality Spatio-Temporal Forecasting via Self-Supervised Learning. https://arxiv.org/abs/2405.03255
+
+9. Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction. https://arxiv.org/abs/2406.16992
+
+10. Make Bricks with a Little Straw: Large-Scale Spatio-Temporal Graph Learning with Restricted GPU-Memory Capacity. 
+
+11. Personalized Federated Learning for Cross-city Traffic Prediction. 
+
+12. Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning. https://arxiv.org/abs/2405.15064
+
+13. Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting. https://arxiv.org/abs/2312.00516
+
+14. SaSDim:Self-Adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation. https://arxiv.org/abs/2309.01988
+
+15. Towards Robust Trajectory Representations: Isolating Environmental Confounders with Causal Learning. https://arxiv.org/abs/2404.14073
+
+16. WeatherGNN: Exploiting Complicated Relationships in Numerical Weather Prediction Bias Correction. https://arxiv.org/abs/2310.05517
+
+17. X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner. https://arxiv.org/abs/2404.12090
+
 **---2023---**
 
 **1. CTW: Confident Time-Warping for Time-Series Label-Noise Learning**. Peitian Ma, Zhen Liu, Junhao Zheng, Linghao Wang, Qianli Ma.
