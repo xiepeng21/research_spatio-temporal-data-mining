@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.08.03 add AAAI 2024 papers.
 - 2024.07.06 add IJCAI 2024 papers.
 - 2024.06.29 add ICML 2024 papers.
 
@@ -11,7 +12,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 ### Top-reference research papers
 
-[AAAI (2019-2023)](AAAI/AAAI.md)
+[AAAI (2019-2024)](AAAI/AAAI.md)
 
 [CIKM (2017-2020, 2023)](CIKM/CIKM.md)
 

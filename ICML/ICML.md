@@ -10,21 +10,21 @@
 
 4. An Empirical Examination of Balancing Strategy for Counterfactual Estimation on Time Series. https://icml.cc/virtual/2024/poster/34183
 
-5. A Simple and Universal Prompt-Tuning Framework for Spatio-Temporal Prediction. https://icml.cc/virtual/2024/poster/32765
+5. Bayesian Online Multivariate Time Series Imputation with Functional Decomposition. https://arxiv.org/abs/2308.14906
 
-6. Bayesian Online Multivariate Time Series Imputation with Functional Decomposition. https://arxiv.org/abs/2308.14906
+6. CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables. https://arxiv.org/abs/2403.01673
 
-7. CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables. https://arxiv.org/abs/2403.01673
+7. CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series. https://icml.cc/virtual/2024/poster/33195
 
-8. CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series. https://icml.cc/virtual/2024/poster/33195
+8. Conformal prediction for multi-dimensional time-series. https://arxiv.org/abs/2403.03850
 
-9. Conformal prediction for multi-dimensional time-series. https://arxiv.org/abs/2403.03850
+9. Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization. https://arxiv.org/abs/2305.14543
 
-10. Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization. https://arxiv.org/abs/2305.14543
+10. Discovering Mixtures of Structural Causal Models from Time Series Data. https://arxiv.org/pdf/2310.06312
 
-11. Discovering Mixtures of Structural Causal Models from Time Series Data. https://arxiv.org/pdf/2310.06312
+11. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. https://arxiv.org/abs/2402.01533
 
-12. Efficient and Effective Time-Series Forecasting with Spiking Neural Networks. https://arxiv.org/abs/2402.01533
+12. FlashST: A Simple and Universal Prompt-Tuning Framework for Spatio-Temporal Prediction. https://icml.cc/virtual/2024/poster/32765
 
 13. Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting. https://arxiv.org/abs/2305.19183
 

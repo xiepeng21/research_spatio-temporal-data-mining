@@ -1,5 +1,67 @@
-#### AAAI （2019-2023）
+#### AAAI （2019-2024）
 ***
+**---2024---**
+
+1. Cross-Domain Contrastive Learning for Time Series Clustering. https://ojs.aaai.org/index.php/AAAI/article/view/28740/29426
+
+2. CGS-Mask: Making Time Series Predictions Intuitive for All. https://arxiv.org/abs/2312.09513
+
+3. CUTS+: High-dimensional Causal Discovery from Irregular Time-series. https://arxiv.org/abs/2305.05890
+
+4. Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting. https://ojs.aaai.org/index.php/AAAI/article/view/29483/30795
+
+5. CI-STHPAN: Pre-Trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph. https://ojs.aaai.org/index.php/AAAI/article/download/28770/29478
+
+6. Diffusion Language-Shapelets for Semisupervised Time-series Classification. https://ojs.aaai.org/index.php/AAAI/article/download/29317/30486
+
+7. Energy-efficient Streaming Time Series Classification with Attentive Power Iteration. https://ojs.aaai.org/index.php/AAAI/article/view/29151/30177
+
+8. Earthfarsser: Versatile Spatio-Temporal Dynamical Systems Modeling in One Model. https://arxiv.org/abs/2312.08403
+
+9. Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data. https://arxiv.org/abs/2309.05305
+
+10. Graph-Aware Contrasting for Multivariate Time-Series Classification. https://arxiv.org/abs/2309.05202v3
+
+11. GraFITi: Graphs for Forecasting Irregularly Sampled Time Series. https://arxiv.org/abs/2305.12932
+
+12. HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting. https://ojs.aaai.org/index.php/AAAI/article/download/29155/30185
+
+13. Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. https://ojs.aaai.org/index.php/AAAI/article/download/28719/29390
+
+14. IVP-VAE: Modeling EHR Time Series with Initial Value Problem Solvers. https://arxiv.org/abs/2305.06741
+
+15. KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding. https://ojs.aaai.org/index.php/AAAI/article/download/28672/29305
+
+16. Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting. https://arxiv.org/abs/2312.08763
+
+17. Latent Diffusion Transformer for Probabilistic Time Series Forecasting. https://ojs.aaai.org/index.php/AAAI/article/download/29085/30053
+
+18. Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation. https://ojs.aaai.org/index.php/AAAI/article/view/28697/29350
+
+19. ModWaveMLP: MLP-based Mode Decomposition and Wavelet Denoising Model to Defeat Complex Structures in Traffic Forecasting. https://ojs.aaai.org/index.php/AAAI/article/view/28753/29449
+
+20. MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting. https://arxiv.org/abs/2401.00423
+
+21. Prompt to transfer: Sim-to-real Transfer for Traffic Signal Control with Prompt Learning. https://arxiv.org/abs/2308.14284
+
+22. SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation. https://arxiv.org/abs/2312.05790
+
+23. Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation. https://arxiv.org/abs/2312.15717
+
+24. Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting. https://ojs.aaai.org/index.php/AAAI/article/download/28707/29368
+
+25. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation. https://ojs.aaai.org/index.php/AAAI/article/view/27813/27657
+
+26. TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning. https://arxiv.org/abs/2312.15709
+
+27. Towards Dynamic Spatial-Temporal Graph Learning: A Decoupled Perspective. https://ojs.aaai.org/index.php/AAAI/article/download/28759/29459
+
+28. U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting. https://arxiv.org/abs/2401.02236
+
+29. Urban Region Embedding via Multi-View Contrastive Prediction. https://ojs.aaai.org/index.php/AAAI/article/view/28718/29388
+
+30. When Model Meets New Normals: Test-time Adaptation for Unsupervised Time-series Anomaly Detection. https://arxiv.org/abs/2312.11976
+
 **---2023---**
 
 **1. Continuous Trajectory Generation Based on Two-Stage GAN**. Wenjun Jiang, Wayne Xin Zhao, Jingyuan Wang, Jiawei Jiang. AAAI 2023. [[paper](https://arxiv.org/abs/2301.07103)]
