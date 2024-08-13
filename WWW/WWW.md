@@ -1,5 +1,33 @@
-#### WWW (2016-2023)
+#### WWW (2016-2024)
 * * *
+**---2024---**
+
+1. Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. https://dl.acm.org/doi/abs/10.1145/3589334.3645556
+
+2. COLA: Cross-city Mobility Transformer for Human Trajectory Simulation. https://dl.acm.org/doi/abs/10.1145/3589334.3645469
+
+3. Dynamic Multi-Network Mining of Tensor Time Series. https://dl.acm.org/doi/abs/10.1145/3589334.3645461
+
+4. Decentralized Collaborative Learning with Adaptive Reference Data for On-Device POI Recommendation. https://dl.acm.org/doi/abs/10.1145/3589334.3645696
+
+5. E2USD: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series. https://dl.acm.org/doi/abs/10.1145/3589334.3645593
+
+6. Exploiting Spatial-Temporal Data in Knowledge Graphs for Enhanced Prediction. https://openreview.net/forum?id=W4eUGlCn23
+
+7. More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning. https://dl.acm.org/doi/abs/10.1145/3589334.3645644
+
+8. MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations. https://dl.acm.org/doi/abs/10.1145/3589334.3645449
+
+9. Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation. https://arxiv.org/abs/2401.14583
+
+10. Revisiting VAE for Unsupervised Time Series Anomaly Detection: A Frequency Perspective. https://arxiv.org/abs/2402.02820
+
+11. UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting. https://arxiv.org/abs/2310.09751
+
+12. Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations. https://arxiv.org/abs/2402.01231
+
+13. UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web. https://arxiv.org/abs/2310.18340
+
 **---2023---**
 1. **Automated Spatio-Temporal Graph Contrastive Learning**. 295-305. Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siu-Ming Yiu.
 2. **FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification**. 1437-1445. Mingyue Cheng, Qi Liu, Zhiding Liu, Zhi Li, Yucong Luo, Enhong Chen.

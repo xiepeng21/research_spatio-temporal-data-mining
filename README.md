@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.08.13 add WWW 2024 papers.
 - 2024.08.03 add AAAI 2024 papers.
 - 2024.07.06 add IJCAI 2024 papers.
 - 2024.06.29 add ICML 2024 papers.
@@ -38,7 +39,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [VLDB (2023)](VLDB/VLDB.md)
 
-[WWW (2016-2023)](WWW/WWW.md)
+[WWW (2016-2024)](WWW/WWW.md)
 
 ### Top-journal research papers
 
