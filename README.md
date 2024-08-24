@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.08.24 add ICDE 2024 papers.
 - 2024.08.13 add WWW 2024 papers.
 - 2024.08.03 add AAAI 2024 papers.
 - 2024.07.06 add IJCAI 2024 papers.
@@ -27,7 +28,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICDM (2016-2021)](ICDM/ICDM.md)
 
-[ICDE (2023)](ICDE/ICDE.md)
+[ICDE (2024)](ICDE/ICDE.md)
 
 [KDD (2016-2023)](KDD/KDD.md)
 
