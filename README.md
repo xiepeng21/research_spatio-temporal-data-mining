@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.12.10 add VLDB 2024 papers.
 - 2024.08.24 add ICDE 2024 papers.
 - 2024.08.13 add WWW 2024 papers.
 - 2024.08.03 add AAAI 2024 papers.
@@ -38,7 +39,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [SIGSPATIAL (2016-2021)](SIGSPATIAL/SIGPATIAL.md)
 
-[VLDB (2023)](VLDB/VLDB.md)
+[VLDB (2024)](VLDB/VLDB.md)
 
 [WWW (2016-2024)](WWW/WWW.md)
 
