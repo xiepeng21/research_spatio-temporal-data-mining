@@ -1,4 +1,128 @@
-#### NeurIPS (2023)
+#### NeurIPS (2023-2024)
+
+* * *
+**---2024---**
+1. Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective. https://neurips.cc/virtual/2024/poster/94220 #Long-Term Time Series Forecasting
+
+2. Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95175 #Time Series Forecasting
+
+3. AutoTimes: Autoregressive Time Series Forecasters via Large Language Models. https://neurips.cc/virtual/2024/poster/95975 #LLM #Time Series Forecasting
+
+4. Are Language Models Actually Useful for Time Series Forecasting? https://neurips.cc/virtual/2024/poster/96085 #Time Series Forecasting
+
+5. Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95988 #Time Series Forecasting
+
+6. Are Self-Attentions Effective for Time Series Forecasting? https://neurips.cc/virtual/2024/poster/94012 #Time Series Forecasting
+
+7. ANT: Adaptive Noise Schedule for Time Series Diffusion Models. https://neurips.cc/virtual/2024/poster/96850 #Time Series Diffusion Models
+
+8. Abstracted Shapes as Tokens - A Generalizable and Interpretable Model for Time-series Classification. https://neurips.cc/virtual/2024/poster/93522 #Time-series Classification
+
+9. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95645 #Time Series Forecasting
+
+10. Boosting Transferability and Discriminability for Time Series Domain Adaptation. https://neurips.cc/virtual/2024/poster/94429 #Time Series Domain Adaptation
+
+11. Building Timeseries Dataset: Empowering Large-Scale Building Analytics. https://neurips.cc/virtual/2024/poster/97839 #Timeseries Dataset
+
+12. CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns. https://neurips.cc/virtual/2024/poster/94391 #Time Series Forecasting
+
+13. CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95627 #Time Series Forecasting
+
+14. Con4m: Context-aware Consistency Learning Framework for Segmented Time Series Classification. https://neurips.cc/virtual/2024/poster/93973 #Time Series Classification
+
+15. Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models. https://neurips.cc/virtual/2024/poster/93680 #Multivariate Time Series
+
+16. Conformalized Time Series with Semantic Features. https://neurips.cc/virtual/2024/poster/95653 #Time Series
+
+17. ChronoEpilogi: Scalable Time Series Selection with Multiple Solutions. https://neurips.cc/virtual/2024/poster/93042 #Time Series Selection
+
+18. DDN: Dual-domain Dynamic Normalization for Non-stationary Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95167 #Non-stationary Time Series Forecasting
+
+19. DeformableTST: Transformer for Time Series Forecasting without Over-reliance on Patching. https://neurips.cc/virtual/2024/poster/96221 #Time Series Forecasting
+
+20. ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer. https://neurips.cc/virtual/2024/poster/93264 #Time-Series Forecasting
+
+21. Exploiting Representation Curvature for Boundary Detection in Time Series. https://neurips.cc/virtual/2024/poster/94837 #Time Series
+
+22. FilterNet: Harnessing Frequency Filters for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/93257 #Time Series Forecasting #Frequency Filters
+
+23. Frequency Adaptive Normalization For Non-stationary Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95063 #Non-stationary Time Series Forecasting
+
+24. From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection. https://neurips.cc/virtual/2024/poster/93316 #LLM #Time Series Forecasting
+
+25. From Similarity to Superiority: Channel Clustering for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95539 #Time Series Forecasting
+
+26. FIDE: Frequency-Inflated Conditional Diffusion Model for Extreme-Aware Time Series Generation. https://neurips.cc/virtual/2024/poster/96595 #Time Series Generation
+
+27. Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series. https://neurips.cc/virtual/2024/poster/93348 #Irregularly Sampled Time Series
+
+28. Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting. https://neurips.cc/virtual/2024/poster/94305 #Time Series Forecasting
+
+29. IncomeSCM: From tabular data set to time-series simulator and causal estimation benchmark. https://neurips.cc/virtual/2024/poster/97776 #time-series simulator #causal estimation
+
+30. Large Pre-trained time series models for cross-domain Time series analysis tasks. https://neurips.cc/virtual/2024/poster/93205 #Time series analysis
+
+31. Learning diverse causally emergent representations from time series data. https://neurips.cc/virtual/2024/poster/92973 #causally emergent representations
+
+32. Multivariate Probabilistic Time Series Forecasting with Correlated Errors. https://neurips.cc/virtual/2024/poster/94440 #Time Series Forecasting
+
+33. Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification. https://neurips.cc/virtual/2024/poster/93940 #Medical Time-Series Classification
+
+34. Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting. https://neurips.cc/virtual/2024/poster/93133 #Time Series Forecasting
+
+35. PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting. https://neurips.cc/virtual/2024/poster/92992 #Time Series Forecasting
+
+36. Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis. https://neurips.cc/virtual/2024/poster/96575 #Time Series Analysis
+
+37. ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons. https://neurips.cc/virtual/2024/poster/97527 #Point Forecasting #Distributional Forecasting
+
+38. Retrieval-Augumented Diffusion Models for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/94339 #Time Series Forecasting
+
+39. Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective. https://neurips.cc/virtual/2024/poster/96026 #Time Series Forecasting
+
+40. Rethinking Fourier Transform for Long-term Time Series Forecasting: A Basis Functions Perspective. https://neurips.cc/virtual/2024/poster/96209 #Fourier Transform #Long-term Time Series Forecasting
+
+41. Reinforced Cross-Domain Knowledge Distillation on Time Series Data. https://neurips.cc/virtual/2024/poster/93330 #Cross-Domain Knowledge Distillation
+
+42. Structured Matrix Basis for Multivariate Time Series Forecasting with Interpretable Dynamics. https://neurips.cc/virtual/2024/poster/94383 #Multivariate Time Series Forecasting
+
+43. SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion. https://neurips.cc/virtual/2024/poster/96390 #Multivariate Time Series Forecasting
+
+44. Scaling Law for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/96119 #Scaling Law #Time Series Forecasting
+
+45. SARAD: Spatial Association-Aware Anomaly Detection and Diagnosis for Multivariate Time Series. https://neurips.cc/virtual/2024/poster/94119 #Multivariate Time Series
+
+46. Shape analysis for time series. https://neurips.cc/virtual/2024/poster/95718 #time series
+
+47. Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations. https://neurips.cc/virtual/2024/poster/92935 #Time-Series Representations
+
+48. SDformer: Similarity-driven Discrete Transformer For Time Series Generation. https://neurips.cc/virtual/2024/poster/94642 #Time Series Generation
+
+49. Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting. https://neurips.cc/virtual/2024/poster/95835 #Time Series Forecasting
+
+50. TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables. https://neurips.cc/virtual/2024/poster/95770 #Time Series Forecasting
+
+51. Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. https://neurips.cc/virtual/2024/poster/96748 #Multivariate Time Series
+
+52. Task-oriented Time Series Imputation Evaluation via Generalized Representers. https://neurips.cc/virtual/2024/poster/93717 #Time Series Imputation
+
+53. Trajectory Flow Matching with Applications to Clinical Time Series Modelling. https://neurips.cc/virtual/2024/poster/94212 #Clinical Time Series
+
+54. Towards Editing Time Series. https://neurips.cc/virtual/2024/poster/93468 #Editing Time Series
+
+55. Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization. https://neurips.cc/virtual/2024/poster/94588 #LLM #Time Series OOD Generalization
+
+56. The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark. https://neurips.cc/virtual/2024/poster/97690 #Time-Series Anomaly Detection
+
+57. Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis. https://neurips.cc/virtual/2024/poster/97582 #Multimodal Dataset
+
+58. TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series. https://neurips.cc/virtual/2024/poster/97532 #Synthetic Time Series
+
+59. Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series. https://neurips.cc/virtual/2024/poster/96819 #Image Transforms #Diffusion Models
+
+60. UNITS: A Unified Multi-Task Time Series Model. https://neurips.cc/virtual/2024/poster/93709 #Multi-Task
+
+61. UniMTS: Unified Pre-training for Motion Time Series. https://neurips.cc/virtual/2024/poster/96073 #Motion Time Series
 
 * * *
 **---2023---**

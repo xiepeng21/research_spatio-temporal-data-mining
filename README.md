@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.12.17 add NeurIPS 2024 papers.
 - 2024.12.10 add VLDB 2024 papers.
 - 2024.08.24 add ICDE 2024 papers.
 - 2024.08.13 add WWW 2024 papers.
@@ -33,7 +34,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [KDD (2016-2023)](KDD/KDD.md)
 
-[NeurIPS (2023)](NeurIPS/NeurIPS.md)
+[NeurIPS (2023-2024)](NeurIPS/NeurIPS.md)
 
 [SDM (2016-2020)](SDM/SDM.md)
 
