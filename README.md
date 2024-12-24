@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2024.12.24 add ICDM 2024 papers.
 - 2024.12.17 add NeurIPS 2024 papers.
 - 2024.12.10 add VLDB 2024 papers.
 - 2024.08.24 add ICDE 2024 papers.
@@ -28,7 +29,7 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICML (2023-2024)](ICML/ICML.md)
 
-[ICDM (2016-2021)](ICDM/ICDM.md)
+[ICDM (2016-2021, 2024)](ICDM/ICDM.md)
 
 [ICDE (2024)](ICDE/ICDE.md)
 
@@ -72,3 +73,7 @@ Some papers from other Conferences and Journals will be added to the repository 
 This work originated from the spatio-temporal data mining group (the fifth group) of JD urban computing summer camp in 2020, thank [Jingyuan Wang](https://scholar.google.com/citations?user=qsLImx8AAAAJ&hl=zh-CN&oi=ao) for helpful guidance and discussions, these papers are collected and classified by [Dayan Pan](https://scholar.google.com/citations?user=GC0NOcsAAAAJ&hl=zh-CN&oi=ao), Geyuan Wang, Zehua He, Xiaoling Liu, Xiaochen Yang, [Xianting Huang](https://www.linkedin.com/in/xianting-huang-27b67888) and [me](https://scholar.google.com/citations?user=iCkan18AAAAJ&hl=zh-CN). We hope it will benefit those researching and interested in spatio-temporal data mining and related areas.
 
 If you have any questions about this repository, please get in touch with me by email (gxiepeng@gmail.com).
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xiepeng21/research_spatio-temporal-data-mining&type=Date)](https://star-history.com/#xiepeng21/research_spatio-temporal-data-mining&Date)

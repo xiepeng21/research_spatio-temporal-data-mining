@@ -1,4 +1,44 @@
-#### ICDM (2016-2021)
+#### ICDM (2016-2021, 2024)
+
+**---2024---**
+1. 2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables. #Transformers #Wind Power Forecasting
+
+2. Align Along Time and Space: A Graph Latent Diffusion Model for Traffic Dynamics Prediction. #Graph Latent Diffusion Model #Traffic Dynamics Prediction
+
+3. A Momentum Contrastive Learning Framework for Query-POI Matching. #Contrastive Learning #Query-POI Matching
+
+4. BiTSA: Leveraging Time Series Foundation Model for Building Energy Analytics. https://arxiv.org/abs/2412.14175 #Time Series Foundation Model #Building Energy Analytics
+
+5. Controllable Visit Trajectory Generation with Spatiotemporal Constraints. #Trajectory Generation
+
+6. EMIT - Event Based Masked Auto Encoding for Irregular Time Series. https://arxiv.org/abs/2409.16554 #Event #Irregular Time Series
+
+7. ExoTST: Exogenous-Aware Temporal Sequence Transformer for Time Series Prediction. https://arxiv.org/abs/2410.12184 #Time Series Prediction
+
+8. Feature Map Purification for Enhancing Adversarial Robustness of Deep Timeseries Classifiers. #Deep Timeseries Classifiers #Feature Map Purification
+
+9. Futures Quantitative Investment with Heterogeneous Continual Graph Neural Network. #Graph Neural Network
+
+10. HyperTime: A Dynamic Hypergraph Approach for Time Series Classification. #Hypergraph #Time Series Classification
+
+11. Improving Time Series Encoding with Noise-Aware Self-Supervised Learning and an Efficient Encoder. https://arxiv.org/abs/2306.06579 #Time Series Encoding #Self-Supervised Learning
+
+12. Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection. https://arxiv.org/abs/2410.08877 #Multivariate Time Series #Anomaly Detection
+
+13. LISA: Learning-Integrated Space Partitioning Framework for Traffic Accident Forecasting on Heterogeneous Spatiotemporal Data #Traffic Accident Forecasting
+
+14. Matrix Profile for Anomaly Detection on Multidimensional Time Series. https://arxiv.org/abs/2409.09298 #Matrix Profile #Anomaly Detection #Multidimensional Time Series
+
+15. MetaSTC: A Meta Spatio-Temporal Learning Paradigm for Traffic Flow Prediction. #Traffic Flow Prediction #Meta Learning
+
+16. Rank Supervised Contrastive Learning for Time Series Classification. https://arxiv.org/abs/2401.18057 #Contrastive Learning #Time Series Classification
+
+17. Towards Efficient Ridesharing via Order-Vehicle Pre-Matching Using Attention Mechanism. https://liuzhidan.github.io/files/2024-ICDM-PreMR.pdf #Attention Mechanism #Order-Vehicle Pre-Matching
+
+18. Traffic Pattern Sharing for Federated Traffic Flow Prediction with Personalization. #Traffic Flow Prediction #Federated Learning
+
+19. VIA AI: Reliable Deep Reinforcement Learning for Traffic Signal Control. #Deep Reinforcement Learning #Traffic Signal Control
+
 * * *
 **---2021---**
 
