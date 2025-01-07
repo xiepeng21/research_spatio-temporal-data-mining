@@ -2,6 +2,7 @@
 A collection of research papers on ***spatio-temporal data mining*** .
 
 > *Updates*
+- 2025.01.07 add ST survey papers in 2024, CIKM 2024, ECML-PKDD 2024, KDD 2024, SIGMOD 2024.
 - 2024.12.24 add ICDM 2024 papers.
 - 2024.12.17 add NeurIPS 2024 papers.
 - 2024.12.10 add VLDB 2024 papers.
@@ -13,15 +14,15 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 ### Survey
 
-[Survey (2018-2023)](Survey/Survey.md)
+[Survey (2018-2024)](Survey/Survey.md)
 
 ### Top-reference research papers
 
 [AAAI (2019-2024)](AAAI/AAAI.md)
 
-[CIKM (2017-2020, 2023)](CIKM/CIKM.md)
+[CIKM (2017-2020, 2023, 2024)](CIKM/CIKM.md)
 
-[ECML-PKDD (2023)](ECML-PKDD/ECML-PKDD.md)
+[ECML-PKDD (2024)](ECML-PKDD/ECML-PKDD.md)
 
 [IJCAI (2016-2024)](IJCAI/IJCAI.md)
 
@@ -33,11 +34,13 @@ A collection of research papers on ***spatio-temporal data mining*** .
 
 [ICDE (2024)](ICDE/ICDE.md)
 
-[KDD (2016-2023)](KDD/KDD.md)
+[KDD (2016-2024)](KDD/KDD.md)
 
 [NeurIPS (2023-2024)](NeurIPS/NeurIPS.md)
 
 [SDM (2016-2020)](SDM/SDM.md)
+
+[SIGMOD (2024)](SIGMOD/SIGMOD.md)
 
 [SIGSPATIAL (2016-2021)](SIGSPATIAL/SIGPATIAL.md)
 

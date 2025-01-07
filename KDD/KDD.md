@@ -1,4 +1,33 @@
-#### KDD (2016-2023)
+#### KDD (2016-2024)
+**---2024---**
+
+1. An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems. https://dl.acm.org/doi/abs/10.1145/3637528.3671606 #Urban Traffic Light Management Systems
+
+2. Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization. https://dl.acm.org/doi/abs/10.1145/3637528.3671544 #Diffusion Model #Mobile Traffic Generation #Network Planning and Optimization
+
+3. DuMapNet: An End-to-End Vectorization System for City-Scale Lane-Level Map Generation. https://dl.acm.org/doi/abs/10.1145/3637528.3671579 #Vectorization System #Lane-Level Map Generation
+
+4. FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based Traffic Prediction. https://dl.acm.org/doi/abs/10.1145/3637528.3671613 #Federated Graph #Traffic Prediction
+
+5. FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting. https://dl.acm.org/doi/abs/10.1145/3637528.3671509 #Vector Quantized Framework #Solar Power Forecasting
+
+6. Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction. https://dl.acm.org/doi/abs/10.1145/3637528.3671507 #Mixture-of-Experts #Traffic Congestion Prediction
+
+7. LaDe: The First Comprehensive Last-mile Express Dataset from Industry. https://dl.acm.org/doi/abs/10.1145/3637528.3671548 #Last-mile Express Dataset
+
+8. MARLP: Time-series Forecasting Control for Agricultural Managed Aquifer Recharge. https://dl.acm.org/doi/abs/10.1145/3637528.3671533 #Time-series Forecasting Control
+
+9. PEMBOT: Pareto-Ensembled Multi-task Boosted Trees. https://dl.acm.org/doi/abs/10.1145/3637528.3671619 #Multi-task Boosted Trees
+
+10. Spatio-Temporal Consistency Enhanced Differential Network for Interpretable Indoor Temperature Prediction. https://dl.acm.org/doi/abs/10.1145/3637528.3671608 #Differential Network #Indoor Temperature Prediction
+
+11. Transportation Marketplace Rate Forecast Using Signature Transform. https://dl.acm.org/doi/abs/10.1145/3637528.3671637 #Transportation Marketplace Rate Forecast #Signature Transform
+
+12. TrajRecovery: An Efficient Vehicle Trajectory Recovery Framework based on Urban-Scale Traffic Camera Records. https://dl.acm.org/doi/abs/10.1145/3637528.3671558 #Vehicle Trajectory Recovery #Traffic Camera Records
+
+13. UrbanGPT: Spatio-Temporal Large Language Models. https://dl.acm.org/doi/abs/10.1145/3637528.3671578 #Spatio-Temporal Large Language Models
+
+14. Weather Knows What Will Occur: Urban Public Nuisance Events Prediction and Control with Meteorological Assistance. https://dl.acm.org/doi/abs/10.1145/3637528.3671639 #Events Prediction #Meteorological Assistance
 
 * * *
 **---2023---**

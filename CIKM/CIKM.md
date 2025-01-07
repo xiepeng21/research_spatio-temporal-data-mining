@@ -1,5 +1,66 @@
-#### CIKM (2017-2020, 2023)
+#### CIKM (2017-2020, 2023, 2024)
 ***
+**---2024---**
+1. A Spatio-Temporal Diffusion Model for Missing and Real-Time Financial Data Inference. https://dl.acm.org/doi/abs/10.1145/3627673.3679806 #Diffusion Model #Financial Data Inference
+
+2. AdaTM: Fine-grained Urban Flow Inference with Adaptive Knowledge Transfer across Multiple Cities. https://dl.acm.org/doi/abs/10.1145/3627673.3679856 #Fine-grained Urban Flow Inference #Knowledge Transfer
+
+3. ByGCN: Spatial Temporal Byroad-Aware Graph Convolution Network for Traffic Flow Prediction in Road Networks. https://dl.acm.org/doi/abs/10.1145/3627673.3679690 #Graph Convolution Network #Traffic Flow Prediction
+
+4. Behavior-aware Sparse Trajectory Recovery in Last-mile Delivery with Multi-scale Attention Fusion. https://dl.acm.org/doi/abs/10.1145/3627673.3680079 #Trajectory Recovery #Multi-scale Attention Fusion #Last-mile Delivery
+
+5. Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation. https://arxiv.org/abs/2403.11960 #Causality #Spatiotemporal Graph Neural Networks #Time Series Imputation
+
+6. DIFN: A Dual Intention-aware Network for Repurchase Recommendation with Hierarchical Spatio-temporal Fusion. https://dl.acm.org/doi/abs/10.1145/3627673.3680071 #Repurchase Recommendation #Hierarchical Spatio-temporal Fusion
+
+7. EasyST: A Simple Framework for Spatio-Temporal Prediction. https://arxiv.org/abs/2409.06748 #Spatio-Temporal Prediction
+
+8. Empowering Traffic Speed Prediction with Auxiliary Feature-Aided Dependency Learning. https://dl.acm.org/doi/abs/10.1145/3627673.3679909 #Traffic Speed Prediction
+
+9. FGITrans: Cross-City Transformer for Fine-grained Urban Flow Inference. https://dl.acm.org/doi/abs/10.1145/3627673.3679855 #Cross-City #Transformer #Fine-grained Urban Flow Inference
+
+10. GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding. https://dl.acm.org/doi/abs/10.1145/3627673.3679934 #Geospatially Grounded Context #Natural Language Understanding
+
+11. Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation. https://arxiv.org/abs/2405.10995 #Graph Neural Network #Multivariate Time Series Imputation
+
+12. Hierarchical Spatio-Temporal Graph Learning Based on Metapath Aggregation for Emergency Supply Forecasting. https://dl.acm.org/doi/abs/10.1145/3627673.3679854 #Spatio-Temporal Graph Learning #Metapath Aggregation #Emergency Supply Forecasting
+
+13. Hypergraph Hash Learning for Efficient Trajectory Similarity Computation. https://dl.acm.org/doi/abs/10.1145/3627673.3679555 #Hypergraph Hash Learning #Trajectory Similarity Computation
+
+14. Hol-Light: A Holistic framework for Efficient and Dynamic Traffic Signal Management. https://dl.acm.org/doi/abs/10.1145/3627673.3679938 #Traffic Signal Management
+
+15. Irregularity-Informed Time Series Analysis: Adaptive Modelling of Spatial and Temporal Dynamics. https://dl.acm.org/doi/abs/10.1145/3627673.3679716 #Irregularity #Time Series Analysis
+
+16. KMCT: k-Means Clustering of Trajectories Efficiently in Location-Based Services. https://dl.acm.org/doi/abs/10.1145/3627673.3679848 #k-Means Clustering #Location-Based Services #Trajectories
+
+17. MSTEM: Masked Spatiotemporal Event Series Modeling for Urban Undisciplined Events Forecasting. https://dl.acm.org/doi/abs/10.1145/3627673.3679810 #Spatiotemporal Event Series #Events Forecasting
+
+18. MalLight: Influence-Aware Coordinated Traffic Signal Control for Traffic Signal Malfunctions. https://arxiv.org/abs/2408.09768 #Traffic Signal Control #Traffic Signal Malfunctions
+
+19. Ocean Significant Wave Height Estimation with Spatio-temporally Aware Large Language Models. https://arxiv.org/abs/2407.20053 #Ocean Significant Wave Height Estimation #Large Language Models
+
+20. Prompt-Based Spatio-Temporal Graph Transfer Learning. https://arxiv.org/abs/2405.12452 #Prompt #Spatio-Temporal Graph Transfer Learning
+
+21. Physics-guided Active Sample Reweighting for Urban Flow Prediction. https://arxiv.org/abs/2407.13605 #Physics #Active Sample Reweighting #Urban Flow Prediction
+
+22. Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic Degradation Analysis at Scale. https://dl.acm.org/doi/abs/10.1145/3627673.3680026 #Spatio-Temporal Graph Learning
+
+23. Rethinking Attention Mechanism for Spatio-Temporal Modeling: A Decoupling Perspective in Traffic Flow Prediction. https://dl.acm.org/doi/abs/10.1145/3627673.3679571 #Attention Mechanism #Traffic Flow Prediction
+
+24. Revealing the Power of Masked Autoencoders in Traffic Forecasting. https://arxiv.org/abs/2309.15169 #Autoencoders #Traffic Forecasting
+
+25. Spatio-temporal Graph Normalizing Flow for Probabilistic Traffic Prediction. https://dl.acm.org/doi/abs/10.1145/3627673.3679705 #Graph Normalizing Flow #Probabilistic Traffic Prediction
+
+26. ST-ECP: A Novel Spatial-Temporal Framework for Energy Consumption Prediction of Vehicle Trajectory. https://dl.acm.org/doi/abs/10.1145/3627673.3679807 #Energy Consumption Prediction #Vehicle Trajectory
+
+27. Spatio-Temporal Transformer Network with Physical Knowledge Distillation for Weather Forecasting. https://dl.acm.org/doi/abs/10.1145/3627673.3679841 #Spatio-Temporal Transformer Network #Physical Knowledge Distillation #Weather Forecasting
+
+28. Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction. https://dl.acm.org/doi/abs/10.1145/3627673.3679600 #Traffic Prediction #Lane-Level
+
+29. Spatio-Temporal Sequence Modeling for Traffic Signal Control. https://dl.acm.org/doi/abs/10.1145/3627673.3679998 #Spatio-Temporal Sequence Modeling #Traffic Signal Control
+
+30. Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity. https://arxiv.org/abs/2407.19668 #Urban Traffic Accident Risk Prediction
+
 **---2023---**
 1. **Adaptive Graph Neural Diffusion for Traffic Demand Forecasting**. Yiling Wu, Xinfeng Zhang and Yaowei Wang. CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615153) #traffic-demand-forecasting
 2. **A Semi-Supervised Anomaly Network Traffic Detection Framework via Multimodal Traffic Information Fusion**. Yu Zheng, Xinglin Lian, Zhangxuan Dang, Chunlei Peng, Chao Yang and Jianfeng Ma. CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615214) #traffic-anomaly-detection 
