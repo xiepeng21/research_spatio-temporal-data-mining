@@ -1,5 +1,69 @@
-#### AAAI （2019-2024）
+#### AAAI （2019-2025）
 ***
+**---2025---**
+
+1. Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning under Zero-inflated Distribution.
+
+2. Aggregator: An Efficient Transformer Model for Geo-spatial Tabular Data.
+
+3. Bridging Traffic State and Trajectory for Dynamic Road Network and Trajectory Representation Learning.
+
+4. Correlation Attention Masked Temporal Transformer for User Identity Linkage using Heterogeneous Mobility Data.
+
+5. C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction. arxiv.org/abs/2412.13231
+
+6. Designing Specialized Two-Dimensional Graph Spectral Filters for Spatial-Temporal Graph Modeling.
+
+7. DutyTTE: Deciphering Uncertainty in Origin-Destination Travel Time Estimation. arxiv.org/abs/2408.12809
+
+8. Decomposed Spatio-Temporal Mamba for Long-Term Traffic Prediction.
+
+9. Drawing Informative Gradients from Sources: A One-stage Transfer Learning Framework for Cross-city Spatiotemporal Forecasting.
+
+10. Efficient Traffic Prediction through Spatio-Temporal Distillation. 
+
+11. Effective and Efficient Representation Learning for Flight Trajectories. arxiv.org/abs/2412.16581
+
+12. FairTP: A Prolonged Fairness Framework for Traffic Prediction.
+
+13. GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching. arxiv.org/abs/2408.10286
+
+14. Graph Structure Learning for Spatial-Temporal Imputation: Adapting to Node and Feature Scales. arxiv.org/abs/2412.18535
+
+15. GeoPro-Net: Learning Interpretable Spatiotemporal Prediction Models through Statistically-Guided Geo-Prototyping. arxiv.org/abs/2412.15353
+
+16. Holistic Semantic Representation for Navigational Trajectory Generation. arxiv.org/abs/2501.02737
+
+17. Integrating Personalized Spatio-Temporal Clustering for Next POI Recommendation.
+
+18. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. arxiv.org/abs/2311.02565
+
+19. POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning.
+
+20. Personalized Federated Learning for SpatioTemporal Forecasting: A Dual Semantic Alignment Based Contrastive Approach. arxiv.org/abs/2404.03702
+
+21. Responsive Dynamic Graph Disentanglement for Metro Flow Forecasting.
+
+22. RDPI: A Refine Diffusion Probability Generation Method for Spatiotemporal Data Imputation.
+
+23. Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting. 
+
+24. STD-PLM: Understanding Both Spatial and Temporal Properties of SpatialTemporal Data with PLM. arxiv.org/abs/2407.09096
+
+25. ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data. arxiv.org/abs/2412.10912
+
+26. Scalable Trajectory-User Linking with Dual-Stream Representation Networks.
+
+27. SSL-STMFormer Self-Supervised Learning SpatioTemporal Entanglement Transformer for Traffic Flow Prediction.
+
+28. ST-ReP: Learning Predictive Representations Efficiently for SpatialTemporal Forecasting. arxiv.org/abs/2412.14537
+
+29. Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios. arxiv.org/abs/2405.13715
+
+30. UniTR: A Unified Framework for Joint Representation Learning of Trajectories and Road Networks.
+
+31. Unaligned Message-Passing and Contextualized Pretraining for Robust Geo-Entity Resolution.
+
 **---2024---**
 
 1. Cross-Domain Contrastive Learning for Time Series Clustering. https://ojs.aaai.org/index.php/AAAI/article/view/28740/29426
